@@ -10,14 +10,14 @@
 
 
 
----
+
 
 ## 2) Interests:
 
 - Applying new tools from AI/Statistics to problems in Science & Engineering. 
 
 
----
+
 
 ## 3) Repository for Diverse Projects/Files:
 
