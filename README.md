@@ -39,4 +39,4 @@
 - Details: Deep Neural Network models were used as surrogate models to learn the mapping between the features of known superconducting materials and their respective critical temperature (Tc) observed in laboratory.  A dataset of 21 263 superconductors was used with 82 attributes per superconductor, including characteristics of the materials such as the number of elements that compose them, their average atomic weights and the entropy of their atomic masses.
 
 
-
+...
