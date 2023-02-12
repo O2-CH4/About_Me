@@ -80,19 +80,22 @@
 - Some pictures:
 
 
-
+...
+...
 
 
 
 ### • [Stochastic Simulation and Design of Intelligent Systems](link:____) 
 
-- Did 2 interesting projects in the context of a graduate course named "Design & Simulation of Intelligent Systems for the 4.0 Industry"
+- Context: Graduate course "Design & Simulation of Intelligent Systems for the 4.0 Industry"
+- 2 interesting projects:
 
 **A) Monte-Carlo Simulations for Optimal Scenario Assessment (Robotic Automation of Port Activities)**
-- Question: Which robotic automation investment is the most optimal to do given some statistical distributions of the maritime traffic.
-- We simulated each possible scenario according to some assumed distributions (Inverse Transform Method)
+ - Question: Which robotic automation investment is the most optimal to do given some statistical distributions of the maritime traffic.
+ - We simulated each possible scenario according to some assumed distributions (Inverse Transform Method)
 
 **B) Simulation and Optimization of Wood Drying through Deep Reinforcement Learning**
+
 - **Overview**: Research Project in partnership with a wood drying company active in North America 
 - **Goal**: Assess the potential of Deep-Reinforcement-Learning combined with a detailed simulator (Digital Twin) for industrial optimization.
 - **Details**: The complex simulation environment was created using Open AI Gym & Simpy in order to reproduce part of the operation processes. Then, a Deep-RL agent was trained to allocate efficiently some resources that are part of the industrial process operations. I directed the team towards choosing Deep-RL & Simulation-Learning as I really think this represents the future of robotics via sim-to-real transfer for efficiently training and optimizing robotic controllers/industrial processes. (Ex: Open AI -- Rubik Cube Solving, Nvidia-ETH Zurich -- Learning to Walk in Minutes Using Massively Parallel Deep-RL). PPO + Reward Engineering Technique "Heuristic-Guided Reinforcement Learning" were used.
