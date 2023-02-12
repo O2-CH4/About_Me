@@ -24,12 +24,13 @@
 ## 3) Repository for Diverse Projects/Files:
 
 
-• [Theory behind ML Models + Code Implementations (Summer 2021)] (https://github.com/O2-CH4/About_Me/blob/main/Critical%20Temperature%20Prediction%20for%20Superconducting%20Materials%20(EN).pdf) 
+• [Theory behind ML Models + Code Implementations (Summer 2021)]  
 
 - Took 1 month of my summer to create an 80 pages documents on all the main Machine Learning Models (Theory + Code)
 - The content was extracted from 20 books and multiple papers/blogs (Used Jupiter Notebooks and Python)
 - Eventually served many friends looking to prepare themselves for the graduate ML course
 - Also did a similar small document on the topic of Mathematical Modeling in order to introduce myself to some Julia implementations
+- Link: https://github.com/O2-CH4/About_Me/blob/main/Critical%20Temperature%20Prediction%20for%20Superconducting%20Materials%20(EN).pdf
 
 
 •	[Critical Temperature Prediction for Superconducting Materials] (Fall 2021)
