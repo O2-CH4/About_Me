@@ -23,7 +23,7 @@
 
 
 
-### • [Neural Decoding -- Spikes-Force Mapping](link:___) (W2023)
+### • [Neural Decoding -- Spikes-Force Mapping](link:___) 
 
 - Overview: Neural Decoders were trained in order to assess the possibility of decoding the applied force on a knob sensor from the neural activity recorded from a rat primary motor cortex (M1). The activity was recorded from a Microwire Array with 32 channels. Several decoder architectures were tested in order to test the impact of different approach/design/parameters. 
 
@@ -32,7 +32,7 @@
 
 
 
-### • [Deep Generative Models -- Cheat Sheet V1](link:____) (W2023)
+### • [Deep Generative Models -- Cheat Sheet V1](link:____) 
 
 - Took some weeks to understand the fundamentals differences of some key Deep Generative Models 
 - Those type of models are responsible for recent innovation in text, images, and video generation, which I find very useful.
@@ -41,7 +41,7 @@
 
 
 
-### • [Inductor Magnetic Energy Estimation Based on a MLP Surrogate Model](link:____) (F2022)
+### • [Inductor Magnetic Energy Estimation Based on a MLP Surrogate Model](link:____) 
 
 - Context: ML Graduate Course
 - Overview: Investigate the possibility of using ML/DL methods as fast & accurate surrogate approaches for approximating the exact mapping made by FEA methods on an Electro-Magnetic model for evaluating design parameters of an Inductor. 
@@ -51,14 +51,14 @@
 
 
 
-### • [Neural Decoding from Rodent's Primary Motor Cortex](link:_____) (F2022)
+### • [Neural Decoding from Rodent's Primary Motor Cortex](link:_____) 
 
 - **Context**: "Bioinstrumentation & Biomedical Microsystems" Graduate Course Project 
 - **Overview**: Project which first involved the design and implementation of a Vision-System for collecting behavioral / kinematics data of free-behaving rats in order to subsequently process the raw data and train various Neural Decoders using the firing activity simultaneously recorded from the Primary Motor Cortex (M1). This was done in collaboration with Dr. Éthier's laboratory at CERVO, which I am grateful to for accepting of helping me realize this complex project. And as this was a graduate Electrical Engineering course, the signal processing involved and the hardware necessary for high-density microelectrode arrays recording was also analyzed in detail for this research project. Recurrent Deep Neural Network were used for the Neural decoding models. 
 
 
 
-### • Graduate RL Course -- Various Work (F2022)
+### • Graduate RL Course -- Various Work 
 - Work 1: Theoretical Questions + Code Implementations of various Multi-Armed Bandits Strategies (Link: _______)
 - Work 2: Theoretical Questions + Code Implementations of Deep-RL Strategies (Sarsa (λ) & DQN) (Link: _______)
 
@@ -67,14 +67,14 @@
 
 
 
-### • Graduate NLP Course -- Various Work (2022)
+### • Graduate NLP Course -- Various Work 
 - Work 1: N-Gram Language Models, Text Classification using various Statistical Methods. (Link: ________)
 - Work 2: MLP/Word Embeddings for Question Classification, LSTM for Neural Language Modeling used for proverb competition (Link: ___)
 - Work 3: Sequence Labeling with a fine-tuned Transformer Model (Task: Postal Address Analysis) (Link: ________)
 
 
 
-### • Museum Tour USA (S2022)
+### • Museum Tour USA 
 
 - Drove 20 000 km in 2 weeks to visit 20-30 aerospace/energy/science museums across almost all USA states.
 - Some pictures:
@@ -84,7 +84,7 @@
 
 
 
-### • [Stochastic Simulation and Design of Intelligent Systems](link:____) (S2022)
+### • [Stochastic Simulation and Design of Intelligent Systems](link:____) 
 
 - Did 2 interesting projects in the context of a graduate course named "Design & Simulation of Intelligent Systems for the 4.0 Industry"
 
@@ -103,21 +103,21 @@
 
 
 
-### • [Information Theory (diverse files)] (W2022)
+### • [Information Theory (diverse files)] 
 
 - Devoir 1
 - Devoir 2
 - Devoir 3
 - Devoir 4
 
-- Submitted problems worth 40% of the session for the graduate course on Information Theory I took.
+- Submitted problems worth 40% of the session for the graduate course on Information Theory I took during the Winter 2022 semester.
 
 
 
 
 
 
-### • [Neural Combinatorial Solver Project (WTA Deep-RL)](link:____) (W2022)
+### • [Neural Combinatorial Solver Project (WTA Deep-RL)](link:____) 
 
 - **Context**: Combinatorial Optimization Graduate course 
 - **Overview**: Me and two other students realized a project relating the trade-offs made when using end-to-end neural solvers instead of traditional solving methods for combinatorial optimization problems. 
@@ -125,17 +125,17 @@
 
 
 
-### • [Critical Temperature Prediction for Superconducting Materials](link:____) (F2021)
+### • [Critical Temperature Prediction for Superconducting Materials](link:____) 
 
-- **Context**: Graduate ML Course
+- **Context**: Graduate ML Course 
 - **Overview**: Project article on a data-driven approach for critical temperature (Tc) prediction of superconducting materials. 
 - **Details**: Deep Neural Network models were used as surrogate models to learn the mapping between the features of known superconducting materials and their respective critical temperature (Tc) observed in laboratory.  A dataset of 21 263 superconductors was used with 82 attributes per superconductor, including characteristics of the materials such as the number of elements that compose them, their average atomic weights and the entropy of their atomic masses.
 
 
 
-### • [Theory behind ML Models + Code Implementations](link:____) (S2021)  
+### • [Theory behind ML Models + Code Implementations](link:____) 
 
-- Took 1 month of my summer to create an 80 pages documents on all the main Machine Learning Models (Theory + Code)
+- Took 1 month of my summer 2021 to create an 80 pages documents on all the main Machine Learning Models (Theory + Code)
 - The content was extracted from 20 books and multiple papers/blogs (Used Jupiter Notebooks and Python)
 - Eventually served many friends looking to prepare themselves for the graduate ML course
 - Also did a similar small document on the topic of Mathematical Modeling in order to introduce myself to some Julia implementations
