@@ -63,7 +63,7 @@
 - Work 2: Theoretical Questions + Code Implementations of Deep-RL Strategies (Sarsa (λ) & DQN) (Link: _______)
 
 - **Project**: Trade-offs between Model-Free and Model-Based Reinforcement Learning Methods
-- Subject chosen for strong alignment with interest of designing architectures for Multi-Task Continual Learning Agents.
+  - Subject chosen for strong alignment with interest of designing architectures for Multi-Task Continual Learning Agents.
 
 
 
