@@ -1,7 +1,7 @@
 # About Me
 
 
-## 1) __Overview__:
+## 1) <u>Overview</u>:
 
 - Canadian AI Graduate Student 
 - Currently following 2 courses in Montreal: Quantum Computing and Theoretical Principles of Deep Learning. 
