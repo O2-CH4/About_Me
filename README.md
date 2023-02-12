@@ -36,7 +36,7 @@
 
 ### • [Deep Generative Models -- Cheat Sheet V1](link:____) 
 
-- Took some weeks to understand the fundamentals differences of some key Deep Generative Models 
+- Took some weeks off to understand the fundamentals differences between some key Deep Generative Models 
 - Those type of models are responsible for recent innovation in text, images, and video generation, which I find very useful.
 - Produced a raw document and a condensed cheat sheet V1 
 - I will add further information and models this summer.
