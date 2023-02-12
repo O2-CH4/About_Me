@@ -25,7 +25,7 @@
 
 
 
-### • [Neural Decoding -- Spikes-Force Mapping](link:___) 
+#### • [Neural Decoding -- Spikes-Force Mapping](link:___) 
 
 - **Overview**: Neural Decoders were trained in order to assess the possibility of decoding the applied force on a knob sensor from the neural activity recorded from a rat primary motor cortex (M1). The activity was recorded from a Microwire Array with 32 channels. Several decoder architectures were tested in order to test the impact of different approach/design/parameters. 
 
@@ -34,7 +34,7 @@
 
 
 
-### • [Deep Generative Models -- Cheat Sheet V1](link:____) 
+#### • [Deep Generative Models -- Cheat Sheet V1](link:____) 
 
 - Took some weeks off to understand the fundamentals differences between some key Deep Generative Models 
 - Those type of models are responsible for recent innovation in text, images, and video generation, which I find very useful.
@@ -43,7 +43,7 @@
 
 
 
-### • [Inductor Magnetic Energy Estimation Based on a MLP Surrogate Model](link:____) 
+#### • [Inductor Magnetic Energy Estimation Based on a MLP Surrogate Model](link:____) 
 
 - **Context**: ML Graduate Course
 - **Overview**: Investigate the possibility of using ML/DL methods as fast & accurate surrogate approaches for approximating the exact mapping made by FEA methods on an Electro-Magnetic model for evaluating design parameters of an Inductor. 
