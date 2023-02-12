@@ -1,11 +1,9 @@
-# About Me
-
+<img width="120" alt="image" src="https://user-images.githubusercontent.com/118633117/218296532-2dda1a5a-ac8d-4827-903f-67f653cf60ee.png">
 
 
 
 ## 1) Overview: 
 
-<img width="120" alt="image" src="https://user-images.githubusercontent.com/118633117/218296532-2dda1a5a-ac8d-4827-903f-67f653cf60ee.png">
 
 - Canadian AI Graduate Student 
 - Currently following 2 courses in Montreal: Quantum Computing and Theoretical Principles of Deep Learning. 
@@ -83,9 +81,11 @@
 - Drove 20 000 km in 2 weeks to visit 20-30 aerospace/energy/science museums across almost all USA states.
 - Some pictures:
 
+<img width="235" alt="image" src="https://user-images.githubusercontent.com/118633117/218297481-294d3063-c5c5-4173-bbf2-3b4ee6e3d02d.png"> <img width="229" alt="image" src="https://user-images.githubusercontent.com/118633117/218297485-344ab788-00da-4c6e-99d1-14b064dc9dd8.png"> <img width="194" alt="image" src="https://user-images.githubusercontent.com/118633117/218297487-aef85007-a763-4252-bf8d-eeebcf7dcb74.png"> <img width="184" alt="image" src="https://user-images.githubusercontent.com/118633117/218297490-ed576bec-187c-45a6-a564-94b5e49092b3.png">
 
-...
-...
+
+
+
 
 
 
