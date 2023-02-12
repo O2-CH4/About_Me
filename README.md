@@ -61,8 +61,8 @@
 
 
 ### • Graduate RL Course -- Various Work 
-- Work 1: Theoretical Questions + Code Implementations of various Multi-Armed Bandits Strategies (Link: _______)
-- Work 2: Theoretical Questions + Code Implementations of Deep-RL Strategies (Sarsa (λ) & DQN) (Link: _______)
+- Work 1: Theoretical Questions + Code Implementations of various Multi-Armed Bandits Strategies 
+- Work 2: Theoretical Questions + Code Implementations of Deep-RL Strategies (Sarsa (λ) & DQN) 
 
 - **Project**: Trade-offs between Model-Free and Model-Based Reinforcement Learning Methods
   - Subject chosen for strong alignment with interest of designing architectures for Multi-Task Continual Learning Agents.
@@ -70,9 +70,9 @@
 
 
 ### • Graduate NLP Course -- Various Work 
-- Work 1: N-Gram Language Models, Text Classification using various Statistical Methods. (Link: ________)
-- Work 2: MLP/Word Embeddings for Question Classification, LSTM for Neural Language Modeling used for proverb competition (Link: ___)
-- Work 3: Sequence Labeling with a fine-tuned Transformer Model (Task: Postal Address Analysis) (Link: ________)
+- Work 1: N-Gram Language Models, Text Classification using various Statistical Methods. 
+- Work 2: MLP/Word Embeddings for Question Classification, LSTM for Neural Language Modeling used for proverb competition 
+- Work 3: Sequence Labeling with a fine-tuned Transformer Model (Task: Postal Address Analysis) 
 
 
 
@@ -81,7 +81,8 @@
 - Drove 20 000 km in 2 weeks to visit 20-30 aerospace/energy/science museums across almost all USA states.
 - Some pictures:
 
-<img width="235" alt="image" src="https://user-images.githubusercontent.com/118633117/218297481-294d3063-c5c5-4173-bbf2-3b4ee6e3d02d.png"> <img width="235" alt="image" src="https://user-images.githubusercontent.com/118633117/218297485-344ab788-00da-4c6e-99d1-14b064dc9dd8.png"> <img width="235" alt="image" src="https://user-images.githubusercontent.com/118633117/218297487-aef85007-a763-4252-bf8d-eeebcf7dcb74.png"> <img width="235" alt="image" src="https://user-images.githubusercontent.com/118633117/218297490-ed576bec-187c-45a6-a564-94b5e49092b3.png">
+<img width="236" alt="image" src="https://user-images.githubusercontent.com/118633117/218298193-e0782f72-b39e-4b84-9d67-014c55f8c8c0.png"> <img width="230" alt="image" src="https://user-images.githubusercontent.com/118633117/218298196-3de65f07-f024-4fbb-94b4-6abe072311bb.png"> <img width="230" alt="image" src="https://user-images.githubusercontent.com/118633117/218298204-1738cc55-1f8c-420d-832e-851b80028d71.png"> <img width="229" alt="image" src="https://user-images.githubusercontent.com/118633117/218298209-c0d5967c-4fb0-49fb-84eb-8d2a99c458a8.png">
+
 
 
 
@@ -92,7 +93,7 @@
 ### • [Stochastic Simulation and Design of Intelligent Systems](link:____) 
 
 - Context: Graduate course "Design & Simulation of Intelligent Systems for the 4.0 Industry"
-- 2 interesting projects:
+- Two interesting projects:
 
 **A) Monte-Carlo Simulations for Optimal Scenario Assessment (Robotic Automation of Port Activities)**
  - Question: Which robotic automation investment is the most optimal to do given some statistical distributions of the maritime traffic.
@@ -117,7 +118,8 @@
 - Devoir 3
 - Devoir 4
 
-- Submitted problems worth 40% of the session for the graduate course on Information Theory I took during the Winter 2022 semester.
+- Submitted problems worth 40% of the session for the graduate course on Information Theory 
+- Winter 2022 semester
 
 
 
@@ -150,8 +152,9 @@
 
 ## 4) Education 
 
-- College Stanislas*
+- College Stanislas
 - **Grad-skipped one year**
 - Rochebelle High School International Program (IB)
 - B.A Multidisciplinary (Laval University)
-- M.S Artificial Intelligence (Transferring to UdeM)
+- M.S Artificial Intelligence (Transfering to UdeM)
+      - 7 graduate courses already completed
