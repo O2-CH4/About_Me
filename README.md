@@ -32,7 +32,9 @@
 - Also did a similar small document on the topic of Mathematical Modeling in order to introduce myself to some Julia implementations
 
 
-•	[Critical Temperature Prediction for Superconducting Materials](https://github.com/O2 CH4/About_Me/blob/main/Critical%20Temperature%20Prediction%20for%20Superconducting%20Materials%20(EN).pdf) (Fall 2021)
+•	[Critical Temperature Prediction for Superconducting Materials](https://github.com/O2 CH4/About_Me/blob/main/Critical%20Temperature%20Prediction%20for%20Superconducting%20Materials%20(EN).pdf) 
+
+(Fall 2021)
 
 - Context: Graduate ML Course
 - Overview: Project article on a data-driven approach for critical temperature (Tc) prediction of superconducting materials. 
