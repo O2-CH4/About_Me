@@ -1,7 +1,7 @@
 # About Me
 
 
-## 1) Overview:
+## 1) *Overview*:
 
 - Canadian AI Graduate Student 
 - Currently following 2 courses in Montreal: Quantum Computing and Theoretical Principles of Deep Learning. 
@@ -12,14 +12,14 @@
 
 
 
-## 2) Interests:
+## 2) *Interests*:
 
 - Applying new tools from AI/Statistics to problems in Science & Engineering. 
 
 
 
 
-## 3) Repository for Diverse Projects/Files:
+## 3) *Repository for Diverse Projects/Files*:
 
 
 ### • [Theory behind ML Models + Code Implementations](link:____) (Summer 2021)  
