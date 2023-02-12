@@ -1,10 +1,11 @@
 # About Me
 
+<img width="120" alt="image" src="https://user-images.githubusercontent.com/118633117/218296532-2dda1a5a-ac8d-4827-903f-67f653cf60ee.png">
+
+
 
 ## 1) Overview: 
 
-
-<img width="120" alt="image" src="https://user-images.githubusercontent.com/118633117/218296532-2dda1a5a-ac8d-4827-903f-67f653cf60ee.png">
 
 - Canadian AI Graduate Student 
 - Currently following 2 courses in Montreal: Quantum Computing and Theoretical Principles of Deep Learning. 
