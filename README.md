@@ -25,9 +25,9 @@
 
 ### • [Neural Decoding -- Spikes-Force Mapping](link:___) 
 
-- Overview: Neural Decoders were trained in order to assess the possibility of decoding the applied force on a knob sensor from the neural activity recorded from a rat primary motor cortex (M1). The activity was recorded from a Microwire Array with 32 channels. Several decoder architectures were tested in order to test the impact of different approach/design/parameters. 
+- **Overview**: Neural Decoders were trained in order to assess the possibility of decoding the applied force on a knob sensor from the neural activity recorded from a rat primary motor cortex (M1). The activity was recorded from a Microwire Array with 32 channels. Several decoder architectures were tested in order to test the impact of different approach/design/parameters. 
 
-- Details: This project can be seen as an extension of the initial Neural Decoding Project made with the assistance of Dr. Éthier's laboratory at the CERVO research center. In addition of the free-behaving behavioral data, rats were trained to apply a specific force on a knob, where a sensor recorded the applied force continuously during the recording in tandem with the Primary Motor Cortex (M1) activity. With the raw data, the project consisted of building pipelines for data pre-processing, dataset generation, and decoder training based on various architectures of deep neural networks.
+- **Details**: This project can be seen as an extension of the initial Neural Decoding Project made with the assistance of Dr. Éthier's laboratory at the CERVO research center. In addition of the free-behaving behavioral data, rats were trained to apply a specific force on a knob, where a sensor recorded the applied force continuously during the recording in tandem with the Primary Motor Cortex (M1) activity. With the raw data, the project consisted of building pipelines for data pre-processing, dataset generation, and decoder training based on various architectures of deep neural networks.
 
 
 
@@ -43,9 +43,9 @@
 
 ### • [Inductor Magnetic Energy Estimation Based on a MLP Surrogate Model](link:____) 
 
-- Context: ML Graduate Course
-- Overview: Investigate the possibility of using ML/DL methods as fast & accurate surrogate approaches for approximating the exact mapping made by FEA methods on an Electro-Magnetic model for evaluating design parameters of an Inductor. 
-- Details: Many complex engineering designs requires weeks of computations in order to assess the quality of a certain project design. Those computations often solve Partial Differential Equations (PDEs) in a precise manner via methods similar to Finite-Element-Analysis (FEA). In a simple example, extensive Computational Fluid Dynamics (CFD) calculations are necessary to quantify the effectiveness of a plane design (Ex: Evaluating lift, drag, etc.). Therefore, approximating via statistical models the mapping made by the PDEs between some design parameters and the effectiveness metrics of a design could accelerate by many orders of magnitude the design cycles of many engineering project as design evaluation could take seconds instead of weeks. This was the subject of our research project, where we tested the performance of multiple ML models for approximating the Magnetic Energy parameter of an inductor design based on design features like its multi-dimensional topology.
+- **Context**: ML Graduate Course
+- **Overview**: Investigate the possibility of using ML/DL methods as fast & accurate surrogate approaches for approximating the exact mapping made by FEA methods on an Electro-Magnetic model for evaluating design parameters of an Inductor. 
+- **Details**: Many complex engineering designs requires weeks of computations in order to assess the quality of a certain project design. Those computations often solve Partial Differential Equations (PDEs) in a precise manner via methods similar to Finite-Element-Analysis (FEA). In a simple example, extensive Computational Fluid Dynamics (CFD) calculations are necessary to quantify the effectiveness of a plane design (Ex: Evaluating lift, drag, etc.). Therefore, approximating via statistical models the mapping made by the PDEs between some design parameters and the effectiveness metrics of a design could accelerate by many orders of magnitude the design cycles of many engineering project as design evaluation could take seconds instead of weeks. This was the subject of our research project, where we tested the performance of multiple ML models for approximating the Magnetic Energy parameter of an inductor design based on design features like its multi-dimensional topology.
 
 
 
