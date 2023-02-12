@@ -23,12 +23,63 @@
 
 
 
+### • [Neural Decoding -- Spikes-Force Mapping](link:___) (Winter holidays 2022-2023)
+
+- Overview: Neural Decoders were trained in order to assess the possibility of decoding the applied force on a knob sensor from the neural activity recorded from a rat primary motor cortex (M1). The activity was recorded from a Microwire Array with 32 channels. Several decoder architectures were tested in order to test the impact of different approach/design/parameters. 
+
+- Details: This project can be seen as an extension of the initial Neural Decoding Project made with the assistance of Dr. Éthier's laboratory at the CERVO research center. In addition of the free-behaving behavioral data, rats were trained to apply a specific force on a knob, where a sensor recorded the applied force continuously during the recording in tandem with the Primary Motor Cortex (M1) activity. With the raw data, the project consisted of building pipelines for data pre-processing, dataset generation, and decoder training based on various architectures of deep neural networks.
+
+
+
+
+### • [Deep Generative Models -- Cheat Sheet V1](link:____) (Winter holidays 2022-2023)
+
+- Took some weeks to understand the fundamentals differences of some key Deep Generative Models 
+- Those type of models are responsible for recent innovation in text, images, and video generation, which I find very useful.
+- Produced a raw document and a condensed cheat sheet V1 
+- I will add further information and models this summer.
+
+
+
+### • [Inductor Magnetic Energy Estimation Based on a MLP Surrogate Model](link:____) (Fall 2022)
+
+- Context: ML Graduate Course
+- Overview: Investigate the possibility of using ML/DL methods as fast & accurate surrogate approaches for approximating the exact mapping made by FEA methods on an Electro-Magnetic model for evaluating design parameters of an Inductor. 
+- Details: Many complex engineering designs requires weeks of computations in order to assess the quality of a certain project design. Those computations often solve Partial Differential Equations (PDEs) in a precise manner via methods similar to Finite-Element-Analysis (FEA). In a simple example, extensive Computational Fluid Dynamics (CFD) calculations are necessary to quantify the effectiveness of a plane design (Ex: Evaluating lift, drag, etc.). Therefore, approximating via statistical models the mapping made by the PDEs between some design parameters and the effectiveness metrics of a design could accelerate by many orders of magnitude the design cycles of many engineering project as design evaluation could take seconds instead of weeks. This was the subject of our research project, where we tested the performance of multiple ML models for approximating the Magnetic Energy parameter of an inductor design based on design features like its multi-dimensional topology.
+
+
+
+
+
+### • [Neural Decoding from Rodent's Primary Motor Cortex](link:_____) (Fall 2022)
+
+- **Context**: "Bioinstrumentation & Biomedical Microsystems" Graduate Course Project 
+- **Overview**: Project which first involved the design and implementation of a Vision-System for collecting behavioral / kinematics data of free-behaving rats in order to subsequently process the raw data and train various Neural Decoders using the firing activity simultaneously recorded from the Primary Motor Cortex (M1). This was done in collaboration with Dr. Éthier's laboratory at CERVO, which I am grateful to for accepting of helping me realize this complex project. And as this was a graduate Electrical Engineering course, the signal processing involved and the hardware necessary for high-density microelectrode arrays recording was also analyzed in detail for this research project. Recurrent Deep Neural Network were used for the Neural decoding models. 
+
+
+
+### • Graduate RL Course -- Various Work (Fall 2022)
+- Work 1: Theoretical Questions + Code Implementations of various Multi-Armed Bandits Strategies (Link: _______)
+- Work 2: Theoretical Questions + Code Implementations of Deep-RL Strategies (Sarsa (λ) & DQN) (Link: _______)
+
+- **Project**: Trade-offs between Model-Free and Model-Based Reinforcement Learning Methods
+- Subject chosen for strong alignment with interest of designing architectures for Multi-Task Continual Learning Agents.
+
+
+
+### • Graduate NLP Course -- Various Work (Fall 2022)
+- Work 1: N-Gram Language Models, Text Classification using various Statistical Methods. (Link: ________)
+- Work 2: MLP/Word Embeddings for Question Classification, LSTM for Neural Language Modeling used for proverb competition (Link: ___)
+- Work 3: Sequence Labeling with a fine-tuned Transformer Model (Task: Postal Address Analysis) (Link: ________)
+
+
+
 ### • Museum Tour USA (Summer 2022)
 
 - Drove 20 000 km in 2 weeks to visit 20-30 aerospace/energy/science museums across almost all USA states.
 - Some pictures:
 
-<img width="177" alt="image" src="https://user-images.githubusercontent.com/118633117/218294763-1ce1b339-1108-4c83-99b8-85c0fd436665.png"> <img width="177" alt="image" src="https://user-images.githubusercontent.com/118633117/218294787-9858eb57-44d0-4a70-a971-1d56d86b53d8.png"> <img width="177" alt="image" src="https://user-images.githubusercontent.com/118633117/218294789-26586eaf-1637-4e4a-943b-f41ad6037f6a.png">
+
 
 
 
@@ -37,15 +88,14 @@
 
 - Did 2 interesting projects in the context of a graduate course named "Design & Simulation of Intelligent Systems for the 4.0 Industry"
 
-A) Monte-Carlo Simulations for Optimal Scenario Assessment (Robotic Automation of Port Activities)
+**A) Monte-Carlo Simulations for Optimal Scenario Assessment (Robotic Automation of Port Activities)**
 - Question: Which robotic automation investment is the most optimal to do given some statistical distributions of the maritime traffic.
 - We simulated each possible scenario according to some assumed distributions (Inverse Transform Method)
 
-B) Simulation and Optimization of Wood Drying through Deep Reinforcement Learning
-
-- Overview: Research Project in partnership with a wood drying company active in North America 
-- Goal: Assess the potential of Deep-Reinforcement-Learning combined with a detailed simulator (Digital Twin) for industrial optimization.
-- Details: The complex simulation environment was created using Open AI Gym & Simpy in order to reproduce part of the operation processes. Then, a Deep-RL agent was trained to allocate efficiently some resources that are part of the industrial process operations. I directed the team towards choosing Deep-RL & Simulation-Learning as I really think this represents the future of robotics via sim-to-real transfer for efficiently training and optimizing robotic controllers/industrial processes. (Ex: Open AI -- Rubik Cube Solving, Nvidia-ETH Zurich -- Learning to Walk in Minutes Using Massively Parallel Deep-RL). PPO + Reward Engineering Technique "Heuristic-Guided Reinforcement Learning" were used.
+**B) Simulation and Optimization of Wood Drying through Deep Reinforcement Learning**
+- **Overview**: Research Project in partnership with a wood drying company active in North America 
+- **Goal**: Assess the potential of Deep-Reinforcement-Learning combined with a detailed simulator (Digital Twin) for industrial optimization.
+- **Details**: The complex simulation environment was created using Open AI Gym & Simpy in order to reproduce part of the operation processes. Then, a Deep-RL agent was trained to allocate efficiently some resources that are part of the industrial process operations. I directed the team towards choosing Deep-RL & Simulation-Learning as I really think this represents the future of robotics via sim-to-real transfer for efficiently training and optimizing robotic controllers/industrial processes. (Ex: Open AI -- Rubik Cube Solving, Nvidia-ETH Zurich -- Learning to Walk in Minutes Using Massively Parallel Deep-RL). PPO + Reward Engineering Technique "Heuristic-Guided Reinforcement Learning" were used.
 
 
 
