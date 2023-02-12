@@ -143,8 +143,8 @@
 
 ## 4) Education 
 
-*- College Stanislas*
-*- **Grad-skipped one year***
-*- Rochebelle High School International Program (IB)* 
-*- B.A Multidisciplinary (Laval University)*
-*- M.S Artificial Intelligence (Transferring to UdeM)*
+- College Stanislas*
+- **Grad-skipped one year**
+- Rochebelle High School International Program (IB)
+- B.A Multidisciplinary (Laval University)
+- M.S Artificial Intelligence (Transferring to UdeM)
