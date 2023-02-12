@@ -3,9 +3,7 @@
 
 ## 1) Overview:
 
-<img width="93" alt="image" src="https://user-images.githubusercontent.com/118633117/218296532-2dda1a5a-ac8d-4827-903f-67f653cf60ee.png">
-
-
+- <img width="100" alt="image" src="https://user-images.githubusercontent.com/118633117/218296532-2dda1a5a-ac8d-4827-903f-67f653cf60ee.png">
 - Canadian AI Graduate Student 
 - Currently following 2 courses in Montreal: Quantum Computing and Theoretical Principles of Deep Learning. 
 - Student with interdisciplinary interests that is strongly driven to understand complex problems and create utility for others.
