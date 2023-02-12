@@ -7,7 +7,7 @@
 
 - Canadian AI Graduate Student 
 - I see myself as a student with interdisciplinary interests that is driven to understand complex problems and create utility for others.
-- Winter 2023: Currently following 2 courses in Montreal, which are Quantum Computing and Theoretical Principles of Deep Learning. 
+- Winter 2023 -- Currently following 2 courses in Montreal: Quantum Computing (UdeM) and Theoretical Principles of Deep Learning (UdeM/Mila). 
 
 
 
