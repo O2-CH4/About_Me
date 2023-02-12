@@ -28,9 +28,7 @@
 - Drove 20 000 km in 2 weeks to visit 20-30 aerospace/energy/science museums across almost all USA states.
 - Some pictures:
 
-<img width="177" alt="image" src="https://user-images.githubusercontent.com/118633117/218294763-1ce1b339-1108-4c83-99b8-85c0fd436665.png">
-<img width="177" alt="image" src="https://user-images.githubusercontent.com/118633117/218294787-9858eb57-44d0-4a70-a971-1d56d86b53d8.png">
-<img width="177" alt="image" src="https://user-images.githubusercontent.com/118633117/218294789-26586eaf-1637-4e4a-943b-f41ad6037f6a.png">
+<img width="177" alt="image" src="https://user-images.githubusercontent.com/118633117/218294763-1ce1b339-1108-4c83-99b8-85c0fd436665.png"> <img width="177" alt="image" src="https://user-images.githubusercontent.com/118633117/218294787-9858eb57-44d0-4a70-a971-1d56d86b53d8.png"> <img width="177" alt="image" src="https://user-images.githubusercontent.com/118633117/218294789-26586eaf-1637-4e4a-943b-f41ad6037f6a.png">
 
 
 
