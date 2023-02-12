@@ -159,7 +159,7 @@
 - Rochebelle High School International Program (IB)
 - B.A Multidisciplinary (Laval University)
 - M.S Artificial Intelligence (Transfering to UdeM)
-      - 7 graduate courses already completed at Ulaval (GPA: 3.57/4.33)
+      >- 7 graduate courses already completed at Ulaval (GPA: 3.57/4.33)
             - Information Theory
             - Design & Simulation of Intelligent Systems for the 4.0 Industry
             - 3D Perception for Autonomous Vehicules
@@ -167,6 +167,6 @@
             - Natural Language Processing
             - Machine learning
             - Bioinstrumentation & Biomedical Microsystems
-      - 2 currently following at UdeM (GPA: _ )
+      >- 2 currently following at UdeM (GPA: _ )
             - Theoretical Principles of Deep Learning
             - Quantum Computing
