@@ -24,7 +24,7 @@
 ## 3) Repository for Diverse Projects/Files:
 
 
-• [Theory behind ML Models + Code Implementations (Summer 2021)]  
+• [Theory behind ML Models + Code Implementations](www.google.ca) (Summer 2021)  
 
 - Took 1 month of my summer to create an 80 pages documents on all the main Machine Learning Models (Theory + Code)
 - The content was extracted from 20 books and multiple papers/blogs (Used Jupiter Notebooks and Python)
