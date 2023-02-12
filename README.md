@@ -39,7 +39,7 @@
 - Took some weeks off to understand the fundamentals differences between some key Deep Generative Models 
 - Those type of models are responsible for recent innovation in text, images, and video generation, which I find very useful.
 - Produced a raw document and a condensed cheat sheet V1 
-- I will add further information and models this summer.
+- I will add further information and models this 2023 summer.
 
 
 
@@ -53,14 +53,14 @@
 
 
 
-### • [Neural Decoding from Rodent's Primary Motor Cortex](link:_____) 
+#### • [Neural Decoding from Rodent's Primary Motor Cortex](link:_____) 
 
-- **Context**: "Bioinstrumentation & Biomedical Microsystems" Graduate Course Project 
+- **Context**: Bioinstrumentation & Biomedical Microsystems Graduate Course Project 
 - **Overview**: Project which first involved the design and implementation of a Vision-System for collecting behavioral / kinematics data of free-behaving rats in order to subsequently process the raw data and train various Neural Decoders using the firing activity simultaneously recorded from the Primary Motor Cortex (M1). This was done in collaboration with Dr. Éthier's laboratory at CERVO, which I am grateful to for accepting of helping me realize this complex project. And as this was a graduate Electrical Engineering course, the signal processing involved and the hardware necessary for high-density microelectrode arrays recording was also analyzed in detail for this research project. Recurrent Deep Neural Network were used for the Neural decoding models. 
 
 
 
-### • Graduate RL Course -- Various Work 
+#### • [Graduate RL Course -- Various Work](link:_____)  
 - Work 1: Theoretical Questions + Code Implementations of various Multi-Armed Bandits Strategies 
 - Work 2: Theoretical Questions + Code Implementations of Deep-RL Strategies (Sarsa (λ) & DQN) 
 
@@ -69,17 +69,17 @@
 
 
 
-### • Graduate NLP Course -- Various Work 
+#### • [Graduate NLP Course -- Various Work](link:_____)   
 - Work 1: N-Gram Language Models, Text Classification using various Statistical Methods. 
 - Work 2: MLP/Word Embeddings for Question Classification, LSTM for Neural Language Modeling used for proverb competition 
 - Work 3: Sequence Labeling with a fine-tuned Transformer Model (Task: Postal Address Analysis) 
 
 
 
-### • Museum Tour USA 
+#### • Museum Tour USA 
 
-- Drove 20 000 km in 2 weeks to visit 20-30 aerospace/energy/science museums across almost all USA states.
-- Some pictures:
+- Drove 20 000 km in 2 weeks to visit 20-30 aerospace/energy/science museums across almost all the USA.
+- Some pictures: 
 
 <img width="236" alt="image" src="https://user-images.githubusercontent.com/118633117/218298193-e0782f72-b39e-4b84-9d67-014c55f8c8c0.png"> <img width="230" alt="image" src="https://user-images.githubusercontent.com/118633117/218298196-3de65f07-f024-4fbb-94b4-6abe072311bb.png"> <img width="230" alt="image" src="https://user-images.githubusercontent.com/118633117/218298204-1738cc55-1f8c-420d-832e-851b80028d71.png"> <img width="229" alt="image" src="https://user-images.githubusercontent.com/118633117/218298209-c0d5967c-4fb0-49fb-84eb-8d2a99c458a8.png">
 
@@ -90,7 +90,7 @@
 
 
 
-### • [Stochastic Simulation and Design of Intelligent Systems](link:____) 
+#### • [Stochastic Simulation and Design of Intelligent Systems](link:____) 
 
 - Context: Graduate course "Design & Simulation of Intelligent Systems for the 4.0 Industry"
 - Two interesting projects:
@@ -111,7 +111,7 @@
 
 
 
-### • [Information Theory (diverse files)] 
+#### • [Information Theory (diverse files)](link:___)
 
 - Devoir 1
 - Devoir 2
@@ -126,7 +126,7 @@
 
 
 
-### • [Neural Combinatorial Solver Project (WTA Deep-RL)](link:____) 
+#### • [Neural Combinatorial Solver Project (WTA Deep-RL)](link:____) 
 
 - **Context**: Combinatorial Optimization Graduate course 
 - **Overview**: Me and two other students realized a project relating the trade-offs made when using end-to-end neural solvers instead of traditional solving methods for combinatorial optimization problems. 
@@ -134,7 +134,7 @@
 
 
 
-### • [Critical Temperature Prediction for Superconducting Materials](link:____) 
+#### • [Critical Temperature Prediction for Superconducting Materials](link:____) 
 
 - **Context**: Graduate ML Course 
 - **Overview**: Project article on a data-driven approach for critical temperature (Tc) prediction of superconducting materials. 
@@ -142,7 +142,7 @@
 
 
 
-### • [Theory behind ML Models + Code Implementations](link:____) 
+#### • [Theory behind ML Models + Code Implementations](link:____) 
 
 - Took 1 month of my summer 2021 to create an 80 pages documents on all the main Machine Learning Models (Theory + Code)
 - The content was extracted from 20 books and multiple papers/blogs (Used Jupiter Notebooks and Python)
@@ -150,11 +150,23 @@
 - Also did a similar small document on the topic of Mathematical Modeling in order to introduce myself to some Julia implementations
 
 
-## 4) Education 
+
+
+### 4) Education 
 
 - College Stanislas
 - **Grad-skipped one year**
 - Rochebelle High School International Program (IB)
 - B.A Multidisciplinary (Laval University)
 - M.S Artificial Intelligence (Transfering to UdeM)
-      - 7 graduate courses already completed
+      - 7 graduate courses already completed at Ulaval (GPA: 3.57/4.33)
+            - Information Theory
+            - Design & Simulation of Intelligent Systems for the 4.0 Industry
+            - 3D Perception for Autonomous Vehicules
+            - Reinforcement Learning
+            - Natural Language Processing
+            - Machine learning
+            - Bioinstrumentation & Biomedical Microsystems
+      - 2 currently following at UdeM (GPA: _ )
+            - Theoretical Principles of Deep Learning
+            - Quantum Computing
