@@ -95,11 +95,11 @@
 - Context: Graduate course "Design & Simulation of Intelligent Systems for the 4.0 Industry"
 - Two interesting projects:
 
-  **a) Monte-Carlo Simulations for Optimal Scenario Assessment (Robotic Automation of Port Activities)**
+**a) Monte-Carlo Simulations for Optimal Scenario Assessment (Robotic Automation of Port Activities)**
  - Question: Which robotic automation investment is the most optimal to do given some statistical distributions of the maritime traffic.
  - We simulated each possible scenario according to some assumed distributions (Inverse Transform Method)
 
-  **b) Simulation and Optimization of Wood Drying through Deep Reinforcement Learning**
+**b) Simulation and Optimization of Wood Drying through Deep Reinforcement Learning**
 
 - **Overview**: Research Project in partnership with a wood drying company active in North America 
 - **Goal**: Assess the potential of Deep-Reinforcement-Learning combined with a detailed simulator (Digital Twin) for industrial optimization.
