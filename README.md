@@ -25,7 +25,7 @@
 
 
 
-#### • [Neural Decoding -- Spikes-Force Mapping](link:___) 
+#### • [Neural Decoding -- Spikes-Force Mapping](https://github.com/O2-CH4/About_Me) 
 
 - **Overview**: Neural Decoders were trained in order to assess the possibility of decoding the applied force on a knob sensor from the neural activity recorded from a rat primary motor cortex (M1). The activity was recorded from a Microwire Array with 32 channels. Several decoder architectures were tested in order to test the impact of different approach/design/parameters. 
 
