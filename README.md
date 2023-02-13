@@ -113,11 +113,7 @@
 
 #### • [Information Theory (diverse files)](link:___)
 
-- Devoir 1
-- Devoir 2
-- Devoir 3
-- Devoir 4
-
+- Devoir 1-4
 - Submitted problems worth 40% of the session for the graduate course on Information Theory 
 - Winter 2022 semester
 
