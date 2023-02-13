@@ -109,7 +109,7 @@
 
 
 
-#### • [Information Theory (diverse files)](https://github.com/O2-CH4/Information_Theory_Files)
+#### • [Information Theory -- Various Work](https://github.com/O2-CH4/Information_Theory_Files)
 
 - Devoir 1-4
 - Submitted problems worth 40% of the session for the graduate course on Information Theory 
