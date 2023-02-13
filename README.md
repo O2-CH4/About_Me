@@ -25,7 +25,7 @@
 
 
 
-#### • [Neural Decoding -- Spikes-Force Mapping](https://github.com/O2-CH4/About_Me) 
+#### • [Neural Decoding -- Spikes-Force Mapping](https://github.com/O2-CH4/Neural_Decoding_Force) 
 
 - **Overview**: Neural Decoders were trained in order to assess the possibility of decoding the applied force on a knob sensor from the neural activity recorded from a rat primary motor cortex (M1). The activity was recorded from a Microwire Array with 32 channels. Several decoder architectures were tested in order to test the impact of different approach/design/parameters. 
 
@@ -34,16 +34,15 @@
 
 
 
-#### • [Deep Generative Models -- Cheat Sheet V1](link:____) 
+#### • [Deep Generative Models -- Cheat Sheet V1](https://github.com/O2-CH4/Deep_Generative_Models_Cheatsheet) 
 
 - Took some weeks off to understand the fundamentals differences between some key Deep Generative Models 
 - Those type of models are responsible for recent innovation in text, images, and video generation, which I find very useful.
-- Produced a raw document and a condensed cheat sheet V1 
-- I will add further information and models this 2023 summer.
+- Produced a raw document and a condensed cheat sheet V1 (I will add further information/models this 2023 summer)
 
 
 
-#### • [Inductor Magnetic Energy Estimation Based on a MLP Surrogate Model](link:____) 
+#### • [Inductor Magnetic Energy Estimation Based on a MLP Surrogate Model](https://github.com/O2-CH4/FEA_VS_Surrogates_Inductor_Design) 
 
 - **Context**: ML Graduate Course
 - **Overview**: Investigate the possibility of using ML/DL methods as fast & accurate surrogate approaches for approximating the exact mapping made by FEA methods on an Electro-Magnetic model for evaluating design parameters of an Inductor. 
@@ -53,26 +52,25 @@
 
 
 
-#### • [Neural Decoding from Rodent's Primary Motor Cortex](link:_____) 
+#### • [Neural Decoding from Rodent's Primary Motor Cortex](https://github.com/O2-CH4/Neural_Decoding_Behaviours) 
 
 - **Context**: Bioinstrumentation & Biomedical Microsystems Graduate Course Project 
 - **Overview**: Project which first involved the design and implementation of a Vision-System for collecting behavioral / kinematics data of free-behaving rats in order to subsequently process the raw data and train various Neural Decoders using the firing activity simultaneously recorded from the Primary Motor Cortex (M1). This was done in collaboration with Dr. Éthier's laboratory at CERVO, which I am grateful to for accepting of helping me realize this complex project. And as this was a graduate Electrical Engineering course, the signal processing involved and the hardware necessary for high-density microelectrode arrays recording was also analyzed in detail for this research project. Recurrent Deep Neural Network were used for the Neural decoding models. 
 
 
 
-#### • [Graduate RL Course -- Various Work](link:_____)  
-- Work 1: Theoretical Questions + Code Implementations of various Multi-Armed Bandits Strategies 
-- Work 2: Theoretical Questions + Code Implementations of Deep-RL Strategies (Sarsa (λ) & DQN) 
-
+#### • [Graduate RL Course -- Various Work](https://github.com/O2-CH4/RL_Files)  
+- **Work 1**: Theoretical Questions + Code Implementations of various Multi-Armed Bandits Strategies 
+- **Work 2**: Theoretical Questions + Code Implementations of Deep-RL Strategies (Sarsa (λ) & DQN) 
 - **Project**: Trade-offs between Model-Free and Model-Based Reinforcement Learning Methods
   - Subject chosen for strong alignment with interest of designing architectures for Multi-Task Continual Learning Agents.
 
 
 
-#### • [Graduate NLP Course -- Various Work](link:_____)   
-- Work 1: N-Gram Language Models, Text Classification using various Statistical Methods. 
-- Work 2: MLP/Word Embeddings for Question Classification, LSTM for Neural Language Modeling used for proverb competition 
-- Work 3: Sequence Labeling with a fine-tuned Transformer Model (Task: Postal Address Analysis) 
+#### • [Graduate NLP Course -- Various Work](https://github.com/O2-CH4/NLP_Files)   
+- **Work 1**: N-Gram Language Models, Text Classification using various Statistical Methods. 
+- **Work 2**: MLP/Word Embeddings for Question Classification, LSTM for Neural Language Modeling & Sentence Completion 
+- **Work 3**: Sequence Labeling with a fine-tuned Transformer Model (Task: Postal Address Analysis) 
 
 
 
@@ -90,13 +88,13 @@
 
 
 
-#### • [Stochastic Simulation and Design of Intelligent Systems](link:____) 
+#### • [Stochastic Simulation and Design of Intelligent Systems](https://github.com/O2-CH4/Design_Simulation_Intelligent_Systems) 
 
-- Context: Graduate course "Design & Simulation of Intelligent Systems for the 4.0 Industry"
+- **Context**: Graduate course "Design & Simulation of Intelligent Systems for the 4.0 Industry"
 - Two interesting projects:
 
 **a) Monte-Carlo Simulations for Optimal Scenario Assessment (Robotic Automation of Port Activities)**
- - Question: Which robotic automation investment is the most optimal to do given some statistical distributions of the maritime traffic.
+ - **Question**: Which robotic automation investment is the most optimal to do given some statistical distributions of the maritime traffic.
  - We simulated each possible scenario according to some assumed distributions (Inverse Transform Method)
 
 **b) Simulation and Optimization of Wood Drying through Deep Reinforcement Learning**
@@ -111,7 +109,7 @@
 
 
 
-#### • [Information Theory (diverse files)](link:___)
+#### • [Information Theory (diverse files)](https://github.com/O2-CH4/Information_Theory_Files)
 
 - Devoir 1-4
 - Submitted problems worth 40% of the session for the graduate course on Information Theory 
@@ -122,7 +120,7 @@
 
 
 
-#### • [Neural Combinatorial Solver Project (WTA Deep-RL)](link:____) 
+#### • [Neural Combinatorial Solver Project (WTA Deep-RL)](https://github.com/O2-CH4/Neural_Combinatorial_Solver) 
 
 - **Context**: Combinatorial Optimization Graduate course 
 - **Overview**: Me and two other students realized a project relating the trade-offs made when using end-to-end neural solvers instead of traditional solving methods for combinatorial optimization problems. 
@@ -130,7 +128,7 @@
 
 
 
-#### • [Critical Temperature Prediction for Superconducting Materials](link:____) 
+#### • [Critical Temperature Prediction for Superconducting Materials](https://github.com/O2-CH4/Superconductors_ML) 
 
 - **Context**: Graduate ML Course 
 - **Overview**: Project article on a data-driven approach for critical temperature (Tc) prediction of superconducting materials. 
@@ -138,7 +136,7 @@
 
 
 
-#### • [Theory behind ML Models + Code Implementations](link:____) 
+#### • [Theory behind ML Models + Code Implementations](https://github.com/O2-CH4/ML_Notebook) 
 
 - Took 1 month of my summer 2021 to create an 80 pages documents on all the main Machine Learning Models (Theory + Code)
 - The content was extracted from 20 books and multiple papers/blogs (Used Jupiter Notebooks and Python)
@@ -165,6 +163,6 @@
             - Machine learning
             - Bioinstrumentation & Biomedical Microsystems
 
-      - 2 currently following at UdeM (GPA: _ )
+      - 2 graduate courses currently following at UdeM (GPA: _ )
             - Theoretical Principles of Deep Learning
             - Quantum Computing
