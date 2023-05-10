@@ -2,26 +2,48 @@
 
 
 
-## 1) Overview: 
-
+## 1) Overview & Interests 
 
 - Canadian AI Graduate Student 
-- Winter 2023 -- Currently following 2 courses: Quantum Computing (UdeM) & Theoretical Principles of Deep Learning (UdeM/Mila). 
-- I see myself as a student with interdisciplinary interests that is driven to understand complex problems and create utility for others.
+
+- Currently a Graduate Research Intern at CERVO Brain Research Center in Ethier's Lab (Neural Interface and Motor Plasticity Laboratory). There, I am completing my Masters in Artificial Intelligence (Laval University) with a focus on Deep Learning techniques for bi-directional neural interfaces.
+
+- In Fall 2023, I will be starting my second Masters in Artificial Intelligence at UdeM, with a focus this time on more theoretical aspects of future AI architectures and learning paradigms. Although I am attracted to many problems, some of them can be synthesized via the quest of how to create multi-tasks agents with a grounded understanding of the world which leverage prior knowledge to learn with low-sample complexity.
+
+- In general, I can describe myself as a student with wide interests that is driven to understand complex problems and create utility for others. I mostly enjoy applying new tools from AI/Statistics to challenges in Science & Engineering.
 
 
 
 
 
 
-## 2) Interests:
-
-- Applying emerging tools from AI/Statistics to problems in Science & Engineering. 
 
 
+ 
+
+## 2) Repository for Diverse Projects/Files
 
 
-## 3) Repository for Diverse Projects/Files:
+#### • [Avoiding Collapses in Non-Contrastive SSL Methods](https://github.com/O2-CH4/______) 
+
+- **Context**: Theoretical Principles for Deep Learning (Graduate Course) (UdeM/Mila)
+- **Details**: Recent self-supervised learning methods for image representation are either classified as contrastive or non-contrastive. Contrastive methods operate by simultaneously minimizing the distance between two augmented views of the same data point (positive pairs) and maximizing views from different data points (negative pairs). While those techniques achieve state of the art results for image classification with few labeled samples, their use of negative pairs is making them limited in many aspects as their scaling potential is limited by the ability of finding suitable contrastive samples for training. Recently, many Non-Contrastive methods have shown competitive results without using any negative pairs, which raises the question of how those methods avoid any type of collapsing solutions to their loss function? Driven by those recent advances, the goal of this project report was to study in detail how and why some recent non-contrastive methods avoid any type of collapses via some specific architectural changes and regularization to their loss functions. In other words, how those methods can avoid trivial solutions that output constant solutions while keeping a high information content in their representations.
+
+
+
+
+#### • [Graduate Quantum Computing Course -- Various Work](https://github.com/O2-CH4/______) 
+
+- Took this course for pure personal interest (not counting in any degree) 
+- **Result**: Submitted problems worth 35% of the session (29/35) 
+- **Bonus**: I added the 2 presentations I gave in front of the class & Mr. Brassard. One is on Quantum-Enabled Secure Communications in Space and the other one is on Quantum Speedups for Deep Neural Networks Training (or more specifically for Non-Convex Optimization). 
+
+
+
+
+
+
+
 
 
 
@@ -65,6 +87,7 @@
 - **Work 2**: Theoretical Questions + Code Implementations of Deep-RL Strategies (Sarsa (λ) & DQN) 
 - **Project**: Trade-offs between Model-Free and Model-Based Reinforcement Learning Methods
   - Subject chosen for strong alignment with interest of designing architectures for Multi-Task Continual Learning Agents.
+  - Understanding and implementing MuZero was the key point of this project.
 
 
 
@@ -150,20 +173,21 @@
 ### 4) Education 
 
 - College Stanislas
-- **Grad-skipped one year**
+- Grad-skipped one year
 - Rochebelle High School International Program (IB)
 - B.A Multidisciplinary (Laval University)
-- M.S Artificial Intelligence (Transfering to UdeM)
+- M.S Computer Science (Artificial Intelligence applied to Neuroengineering) (Laval University & CERVO) 
+- M.S Computer Science (Theoretical Artificial Intelligence) (UdeM) (Fall 2023)
 
-      - 7 graduate courses already completed at Ulaval (GPA: 3.57/4.33)
+      - All graduate courses completed (to date): 
             - Information Theory
+            - Combinatorial Optimization
             - Design & Simulation of Intelligent Systems for the 4.0 Industry
             - 3D Perception for Autonomous Vehicules
             - Reinforcement Learning
             - Natural Language Processing
             - Machine learning
             - Bioinstrumentation & Biomedical Microsystems
-
-      - 2 graduate courses currently following at UdeM (GPA: _ )
-            - Theoretical Principles of Deep Learning
-            - Quantum Computing
+            - Quantum Computing (UdeM)
+            - Theoretical Principles of Deep Learning (UdeM/Mila)
+          
