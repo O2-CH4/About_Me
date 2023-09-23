@@ -190,7 +190,9 @@
 
 
 
-#### • [Critical Temperature Prediction for Superconducting Materials](https://github.com/O2-CH4/Superconductors_ML) 
+#### • [Critical Temperature Prediction for Superconducting Materials](https://github.com/O2-CH4/Superconductors_ML/Critical Temperature Prediction for Superconducting Materials (EN).pdf)
+
+- (https://github.com/O2-CH4/Superconductors_ML) 
 
 - **Context**: Graduate ML Course 
 - **Overview**: Project article on a data-driven approach for critical temperature (Tc) prediction of superconducting materials. 
