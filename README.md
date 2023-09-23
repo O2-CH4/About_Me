@@ -208,7 +208,7 @@
 
 
 
-### 4) Education 
+### 3) Education 
 
 - College Stanislas
 - Grad-skipped one year
@@ -220,7 +220,7 @@
     * Focus: Theoretical Artificial Intelligence 
 
 
-### 5) Courses
+### 4) Courses
 
 - All graduate courses completed (to date): 
     * Information Theory
