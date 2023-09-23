@@ -219,7 +219,10 @@
 - M.S Computer Science (UdeM/Mila) (2023-2024)
     * Focus: Theoretical Artificial Intelligence 
 
-  - All graduate courses completed (to date): 
+
+### 5) Courses
+
+- All graduate courses completed (to date): 
     * Information Theory
     * Combinatorial Optimization
     * Design & Simulation of Intelligent Systems for the 4.0 Industry
