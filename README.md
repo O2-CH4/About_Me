@@ -1,4 +1,4 @@
-<img width="300" alt="image" src="https://github.com/O2-CH4/About_Me/assets/118633117/47f6d405-a35a-451c-a13f-015b6396a075">
+<img width="260" alt="image" src="https://github.com/O2-CH4/About_Me/assets/118633117/47f6d405-a35a-451c-a13f-015b6396a075">
 
 
 
