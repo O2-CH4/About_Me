@@ -4,15 +4,13 @@
 
 ## 1) Overview & Interests 
 
-- Canadian AI Graduate Student 
+- Canadian AI Graduate Student
 
-- Currently a Graduate Research Intern at CERVO Brain Research Center in Ethier's Lab (Neural Interface and Motor Plasticity Laboratory). There, I am completing my Masters in Artificial Intelligence (Laval University) with a focus on Deep Learning techniques for bi-directional neural interfaces.
+- Previously a Graduate Research Intern at [CERVO Brain Research Center](https://cervo.ulaval.ca/en) in [Ethier’s Lab](https://scholar.google.ca/citations?user=9CzYcbAAAAAJ&hl=en) (Neural Interface and Motor Plasticity Laboratory). There, I was completing my first Masters in Artificial Intelligence (Laval University) with a focus on Deep Learning techniques for Brain-Computer Interfaces (BCIs).
 
-- In Fall 2023, I will be starting my second Masters in Artificial Intelligence at UdeM, with a focus this time on more theoretical aspects of future AI architectures and learning paradigms. Although I am attracted to many problems, some of them can be synthesized via the quest of how to create multi-tasks agents with a grounded understanding of the world which leverage prior knowledge to learn with low-sample complexity.
+- I am currently pursuing my second Masters in Artificial Intelligence at UdeM / Mila, with a focus this time on more theoretical aspects of future AI architectures and learning paradigms. Although I am attracted to many problems, some of them can be synthesized via the quest of how to create multi-tasks agents with a grounded understanding of the world which leverage prior knowledge to learn with low-sample complexity.
 
-- In general, I can describe myself as a student with wide interests that is driven to understand complex problems and create utility for others. I mostly enjoy applying new tools from AI/Statistics to challenges in Science & Engineering.
-
-
+- I can describe myself as a student with wide interests that is driven to understand complex problems and create utility for others. I mostly enjoy applying new tools from AI/Statistics to challenges in Sciences & Engineering.
 
 
 
@@ -22,6 +20,14 @@
  
 
 ## 2) Repository for Diverse Projects/Files
+
+
+#### • [Kinematics Decoding from Rodent’s Primary Motor Cortex](LINK REPORT) 
+
+- **Context**: Graduate Research Internship at CERVO
+- **Overview**: Across this internship, I was responsible for developing an end-to-end pipeline for decoding kinematics variables using Deep Recurrent Neural Networks from raw intra-cortical neural recordings. Due to my previous experience in Brain-Computer Interface projects, I was mainly leading a small group of students (undergrads, masters, PhD) in order to design & develop various tools necessary for building datasets that could be used for training motor neural decoding models. Tools included: Experiment Design, Signal Processing, 3D markerless pose estimation, data pre-processing pipelines and decoders training pipelines. 
+- **Future Avenues**: Although only single session models were trained, I established that it would be interesting if time allowed to explore in details the generalization capabilities of the trained decoders on different time scale, different tasks, and different rat subjects. Indeed, techniques such as large foundational neural decoders for motor control that could generalize across those settings could represent a paradigm shift from current methods when it comes to Brain-Computer Interfaces. An other interesting avenue could have been to explore various decoding/encoding learning architectures that could handle the larger amount of data that will be produced by the higher channel counts technologies of tomorrow while still displaying strong generalization. I think this will be an important aspect for accurately predicting more complex informations (higher doF motor decoding), which will be necessary for future prosthetics control.
+
 
 
 #### • [Avoiding Collapses in Non-Contrastive SSL Methods](https://github.com/O2-CH4/DL_Theoretical_SSL) 
@@ -43,6 +49,11 @@
 
 
 
+#### • Museum Tour USA (Phase 2 -- Summer 2023)
+
+- Drove 20 000 km in 2 weeks (again) to visit 20-30 aerospace/energy/science museums across almost all the USA.
+- The goal was to visit the museums and cities I missed for various reasons during phase 1
+- Some pictures: 
 
 
 
@@ -99,7 +110,7 @@
 
 
 
-#### • Museum Tour USA 
+#### • Museum Tour USA (Phase 1 -- Summer 2022) 
 
 - Drove 20 000 km in 2 weeks to visit 20-30 aerospace/energy/science museums across almost all the USA.
 - Some pictures: 
@@ -128,6 +139,12 @@
 - **Goal**: Assess the potential of Deep-Reinforcement-Learning combined with a detailed simulator (Digital Twin) for industrial optimization.
 - **Details**: The complex simulation environment was created using Open AI Gym & Simpy in order to reproduce part of the operation processes. Then, a Deep-RL agent was trained to allocate efficiently some resources that are part of the industrial process operations. I directed the team towards choosing Deep-RL & Simulation-Learning as I really think this represents the future of robotics via sim-to-real transfer for efficiently training and optimizing robotic controllers/industrial processes. (Ex: Open AI -- Rubik Cube Solving, Nvidia-ETH Zurich -- Learning to Walk in Minutes Using Massively Parallel Deep-RL). PPO + Reward Engineering Technique "Heuristic-Guided Reinforcement Learning" were used.
 
+
+
+#### • [3D Perception for Autonomous Vehicles — Various Work](LINK) 
+
+- **Overview**: Various homeworks and assignments performed in the context of a graduate course on 3D sensing for AVs.
+- **Topics**: ROS, 2D/3D Geometry & Transformations, Point Cloud Registration & Mapping, Lidars, …
 
 
 
@@ -177,8 +194,10 @@
 - Grad-skipped one year
 - Rochebelle High School International Program (IB)
 - B.A Multidisciplinary (Laval University)
-- M.S Computer Science (Artificial Intelligence applied to Neuroengineering) (Laval University & CERVO) 
-- M.S Computer Science (Theoretical Artificial Intelligence) (UdeM) (Fall 2023)
+- M.S Computer Science (Laval University / CERVO) (2022-2023)
+    * Focus: Deep Learning for Motor BCI Decoding 
+- M.S Computer Science (UdeM/Mila) (2023-2024)
+    * Focus: Theoretical Artificial Intelligence 
 
       - All graduate courses completed (to date): 
             - Information Theory
@@ -191,4 +210,9 @@
             - Bioinstrumentation & Biomedical Microsystems
             - Quantum Computing (UdeM)
             - Theoretical Principles of Deep Learning (UdeM/Mila)
+        
+            - Reinforcement Learning and Optimal Control (On-Going)
+            - Software Quality Assurance (On-Going)
+            - Representation Learning (On-Going)
+
           
