@@ -220,18 +220,18 @@
     * Focus: Theoretical Artificial Intelligence 
 
 - All graduate courses completed (to date): 
-            - Information Theory
-            - Combinatorial Optimization
-            - Design & Simulation of Intelligent Systems for the 4.0 Industry
-            - 3D Perception for Autonomous Vehicules
-            - Reinforcement Learning
-            - Natural Language Processing
-            - Machine learning
-            - Bioinstrumentation & Biomedical Microsystems
-            - Quantum Computing (UdeM)
-            - Theoretical Principles of Deep Learning (UdeM/Mila)
-            - Reinforcement Learning and Optimal Control (On-Going)
-            - Software Quality Assurance (On-Going)
-            - Representation Learning (On-Going)
+    * Information Theory
+    * Combinatorial Optimization
+    * Design & Simulation of Intelligent Systems for the 4.0 Industry
+    * 3D Perception for Autonomous Vehicules
+    * Reinforcement Learning
+    * Natural Language Processing
+    * Machine learning
+    * Bioinstrumentation & Biomedical Microsystems
+    * Quantum Computing (UdeM)
+    * Theoretical Principles of Deep Learning (UdeM/Mila)
+    * Reinforcement Learning and Optimal Control (On-Going)
+    * Software Quality Assurance (On-Going)
+    * Representation Learning (On-Going)
 
           
