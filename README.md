@@ -161,7 +161,7 @@
 
 
 
-#### • [3D Perception for Autonomous Vehicles — Various Work](LINK) 
+#### • [3D Perception for Autonomous Vehicles — Various Work](https://github.com/O2-CH4/3D_Vision_AV) 
 
 - **Overview**: Various homeworks and assignments performed in the context of a graduate course on 3D sensing for AVs.
 - **Topics**: ROS, 2D/3D Geometry & Transformations, Point Cloud Registration & Mapping, Lidars, …
