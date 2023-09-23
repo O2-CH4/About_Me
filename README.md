@@ -1,4 +1,7 @@
-<img width="160" alt="image" src="https://user-images.githubusercontent.com/118633117/218296532-2dda1a5a-ac8d-4827-903f-67f653cf60ee.png"> <img width="160" alt="image" src="https://github.com/O2-CH4/About_Me/assets/118633117/8d23a12c-5b5e-42e5-bd87-f44c4fa9aadd">
+<img width="160" alt="image" src="https://user-images.githubusercontent.com/118633117/218296532-2dda1a5a-ac8d-4827-903f-67f653cf60ee.png"> 
+<img width="120" alt="image" src="https://github.com/O2-CH4/About_Me/assets/118633117/35fecdcf-c55c-4aa0-b988-9d8bb41ffad4">
+
+
 
 
 
@@ -30,7 +33,10 @@
 - **Future Avenues**: Although only single session models were trained, I established that it would be interesting if time allowed to explore in details the generalization capabilities of the trained decoders on different time scale, different tasks, and different rat subjects. Indeed, techniques such as large foundational neural decoders for motor control that could generalize across those settings could represent a paradigm shift from current methods when it comes to Brain-Computer Interfaces. An other interesting avenue could have been to explore various decoding/encoding learning architectures that could handle the larger amount of data that will be produced by the higher channel counts technologies of tomorrow while still displaying strong generalization. I think this will be an important aspect for accurately predicting more complex informations (higher doF motor decoding), which will be necessary for future prosthetics control.
 
 
-<img width="250" alt="image" src="https://github.com/O2-CH4/About_Me/assets/118633117/911309a9-3016-47f6-9268-27256d2bb667"> <img width="250" alt="image" src="https://github.com/O2-CH4/About_Me/assets/118633117/56299cb3-a4a7-4dbe-89c1-f9f44f26bfa3"> <img width="250" alt="image" src="https://github.com/O2-CH4/About_Me/assets/118633117/f5df6856-f25d-4a45-887b-4aded253f235">
+
+<img width="200" alt="image" src="https://github.com/O2-CH4/About_Me/assets/118633117/376c9ef5-61f9-4d0b-9e92-92d2f083ca74">
+<img width="200" alt="image" src="https://github.com/O2-CH4/About_Me/assets/118633117/78f6c685-f18c-4e86-9e71-f4cd8df0f00e">
+<img width="250" alt="image" src="https://github.com/O2-CH4/About_Me/assets/118633117/251ad1ff-1bd8-4a97-96dc-00903fe9838d">
 
 
 
@@ -63,11 +69,17 @@
 - The goal was to visit the museums and cities I missed for various reasons during phase 1
 - Some pictures: 
 
-<img width="230" alt="image" src="https://github.com/O2-CH4/About_Me/assets/118633117/98156465-5157-451a-8bb4-4a55bc0edd0a"> <img width="230" alt="image" src="https://github.com/O2-CH4/About_Me/assets/118633117/323f4471-2ca4-4fa2-a8d7-aca4198ed510"> <img width="230" alt="image" src="https://github.com/O2-CH4/About_Me/assets/118633117/b502441e-65eb-4b9f-811b-e5a677a44f6d"> <img width="230" alt="image" src="https://github.com/O2-CH4/About_Me/assets/118633117/481de3c8-5a88-488f-88d9-658ca43b3d32"> <img width="230" alt="image" src="https://github.com/O2-CH4/About_Me/assets/118633117/efae6639-0a88-49c2-b8f8-044aef8433bf"> <img width="230" alt="image" src="https://github.com/O2-CH4/About_Me/assets/118633117/41c689d7-2987-43d0-82c3-5e1e7d08c0a1"> <img width="230" alt="image" src="https://github.com/O2-CH4/About_Me/assets/118633117/7bd9a729-a1a9-421f-9c48-7d1d5b887435">
 
+<img width="200" alt="image" src="https://github.com/O2-CH4/About_Me/assets/118633117/3753e311-84ca-4f62-8d40-ccc3956e8170">
+<img width="200" alt="image" src="https://github.com/O2-CH4/About_Me/assets/118633117/00f426f9-646c-4b08-870b-c4b0dc62a073">
+<img width="200" alt="image" src="https://github.com/O2-CH4/About_Me/assets/118633117/f7c290ed-1462-434f-a419-8e1780147e7b">
+<img width="200" alt="image" src="https://github.com/O2-CH4/About_Me/assets/118633117/8d7dee69-97a4-427a-b254-8db9723467b2">
+<img width="200" alt="image" src="https://github.com/O2-CH4/About_Me/assets/118633117/89ff379b-304f-47a4-95e4-2f89efd6e2b9">
 
+<img width="300" alt="image" src="https://github.com/O2-CH4/About_Me/assets/118633117/d7c67376-85be-4516-b5db-6ed6ca6f0ef5">
+<img width="300" alt="image" src="https://github.com/O2-CH4/About_Me/assets/118633117/00bfbe96-c308-48ee-8936-97ea4f335a6f">
 
-
+ 
 
 
 
