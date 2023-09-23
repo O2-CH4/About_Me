@@ -1,4 +1,5 @@
-<img width="120" alt="image" src="https://user-images.githubusercontent.com/118633117/218296532-2dda1a5a-ac8d-4827-903f-67f653cf60ee.png">
+<img width="160" alt="image" src="https://user-images.githubusercontent.com/118633117/218296532-2dda1a5a-ac8d-4827-903f-67f653cf60ee.png"> <img width="160" alt="image" src="https://github.com/O2-CH4/About_Me/assets/118633117/8d23a12c-5b5e-42e5-bd87-f44c4fa9aadd">
+
 
 
 
@@ -6,7 +7,7 @@
 
 - Canadian AI Graduate Student
 
-- Previously a Graduate Research Intern at [CERVO Brain Research Center](https://cervo.ulaval.ca/en) in [Ethier’s Lab](https://scholar.google.ca/citations?user=9CzYcbAAAAAJ&hl=en) (Neural Interface and Motor Plasticity Laboratory). There, I was completing my first Masters in Artificial Intelligence (Laval University) with a focus on Deep Learning techniques for Brain-Computer Interfaces (BCIs).
+- Previously a Graduate Research Intern at [CERVO Brain Research Center](https://cervo.ulaval.ca/en) in [Ethier’s Lab](https://scholar.google.ca/citations?user=9CzYcbAAAAAJ&hl=en) called the Neural Interface and Motor Plasticity Laboratory. There, I was completing my first Masters in Artificial Intelligence (Laval University) with a focus on Deep Learning techniques for Brain-Computer Interfaces (BCIs).
 
 - I am currently pursuing my second Masters in Artificial Intelligence at UdeM / Mila, with a focus this time on more theoretical aspects of future AI architectures and learning paradigms. Although I am attracted to many problems, some of them can be synthesized via the quest of how to create multi-tasks agents with a grounded understanding of the world which leverage prior knowledge to learn with low-sample complexity.
 
@@ -27,6 +28,13 @@
 - **Context**: Graduate Research Internship at CERVO
 - **Overview**: Across this internship, I was responsible for developing an end-to-end pipeline for decoding kinematics variables using Deep Recurrent Neural Networks from raw intra-cortical neural recordings. Due to my previous experience in Brain-Computer Interface projects, I was mainly leading a small group of students (undergrads, masters, PhD) in order to design & develop various tools necessary for building datasets that could be used for training motor neural decoding models. Tools included: Experiment Design, Signal Processing, 3D markerless pose estimation, data pre-processing pipelines and decoders training pipelines. 
 - **Future Avenues**: Although only single session models were trained, I established that it would be interesting if time allowed to explore in details the generalization capabilities of the trained decoders on different time scale, different tasks, and different rat subjects. Indeed, techniques such as large foundational neural decoders for motor control that could generalize across those settings could represent a paradigm shift from current methods when it comes to Brain-Computer Interfaces. An other interesting avenue could have been to explore various decoding/encoding learning architectures that could handle the larger amount of data that will be produced by the higher channel counts technologies of tomorrow while still displaying strong generalization. I think this will be an important aspect for accurately predicting more complex informations (higher doF motor decoding), which will be necessary for future prosthetics control.
+
+
+<img width="250" alt="image" src="https://github.com/O2-CH4/About_Me/assets/118633117/911309a9-3016-47f6-9268-27256d2bb667"> <img width="250" alt="image" src="https://github.com/O2-CH4/About_Me/assets/118633117/56299cb3-a4a7-4dbe-89c1-f9f44f26bfa3"> <img width="250" alt="image" src="https://github.com/O2-CH4/About_Me/assets/118633117/f5df6856-f25d-4a45-887b-4aded253f235">
+
+
+
+
 
 
 
@@ -54,6 +62,13 @@
 - Drove 20 000 km in 2 weeks (again) to visit 20-30 aerospace/energy/science museums across almost all the USA.
 - The goal was to visit the museums and cities I missed for various reasons during phase 1
 - Some pictures: 
+
+<img width="230" alt="image" src="https://github.com/O2-CH4/About_Me/assets/118633117/98156465-5157-451a-8bb4-4a55bc0edd0a"> <img width="230" alt="image" src="https://github.com/O2-CH4/About_Me/assets/118633117/323f4471-2ca4-4fa2-a8d7-aca4198ed510"> <img width="230" alt="image" src="https://github.com/O2-CH4/About_Me/assets/118633117/b502441e-65eb-4b9f-811b-e5a677a44f6d"> <img width="230" alt="image" src="https://github.com/O2-CH4/About_Me/assets/118633117/481de3c8-5a88-488f-88d9-658ca43b3d32"> <img width="230" alt="image" src="https://github.com/O2-CH4/About_Me/assets/118633117/efae6639-0a88-49c2-b8f8-044aef8433bf"> <img width="230" alt="image" src="https://github.com/O2-CH4/About_Me/assets/118633117/41c689d7-2987-43d0-82c3-5e1e7d08c0a1"> <img width="230" alt="image" src="https://github.com/O2-CH4/About_Me/assets/118633117/7bd9a729-a1a9-421f-9c48-7d1d5b887435">
+
+
+
+
+
 
 
 
