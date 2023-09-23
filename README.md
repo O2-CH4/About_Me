@@ -34,7 +34,7 @@
 
 
 
-<img width="200" alt="image" src="https://github.com/O2-CH4/About_Me/assets/118633117/376c9ef5-61f9-4d0b-9e92-92d2f083ca74"> <img width="200" alt="image" src="https://github.com/O2-CH4/About_Me/assets/118633117/78f6c685-f18c-4e86-9e71-f4cd8df0f00e"> <img width="230" alt="image" src="https://github.com/O2-CH4/About_Me/assets/118633117/251ad1ff-1bd8-4a97-96dc-00903fe9838d">
+<img width="200" alt="image" src="https://github.com/O2-CH4/About_Me/assets/118633117/376c9ef5-61f9-4d0b-9e92-92d2f083ca74"> <img width="200" alt="image" src="https://github.com/O2-CH4/About_Me/assets/118633117/78f6c685-f18c-4e86-9e71-f4cd8df0f00e"> <img width="225" alt="image" src="https://github.com/O2-CH4/About_Me/assets/118633117/251ad1ff-1bd8-4a97-96dc-00903fe9838d">
 
 
 
