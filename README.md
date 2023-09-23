@@ -1,5 +1,4 @@
-<img width="160" alt="image" src="https://user-images.githubusercontent.com/118633117/218296532-2dda1a5a-ac8d-4827-903f-67f653cf60ee.png"> 
-<img width="120" alt="image" src="https://github.com/O2-CH4/About_Me/assets/118633117/35fecdcf-c55c-4aa0-b988-9d8bb41ffad4">
+<img width="160" alt="image" src="https://user-images.githubusercontent.com/118633117/218296532-2dda1a5a-ac8d-4827-903f-67f653cf60ee.png"> <img width="120" alt="image" src="https://github.com/O2-CH4/About_Me/assets/118633117/35fecdcf-c55c-4aa0-b988-9d8bb41ffad4">
 
 
 
@@ -34,9 +33,7 @@
 
 
 
-<img width="200" alt="image" src="https://github.com/O2-CH4/About_Me/assets/118633117/376c9ef5-61f9-4d0b-9e92-92d2f083ca74">
-<img width="200" alt="image" src="https://github.com/O2-CH4/About_Me/assets/118633117/78f6c685-f18c-4e86-9e71-f4cd8df0f00e">
-<img width="250" alt="image" src="https://github.com/O2-CH4/About_Me/assets/118633117/251ad1ff-1bd8-4a97-96dc-00903fe9838d">
+<img width="200" alt="image" src="https://github.com/O2-CH4/About_Me/assets/118633117/376c9ef5-61f9-4d0b-9e92-92d2f083ca74"> <img width="200" alt="image" src="https://github.com/O2-CH4/About_Me/assets/118633117/78f6c685-f18c-4e86-9e71-f4cd8df0f00e"> <img width="250" alt="image" src="https://github.com/O2-CH4/About_Me/assets/118633117/251ad1ff-1bd8-4a97-96dc-00903fe9838d">
 
 
 
@@ -70,14 +67,9 @@
 - Some pictures: 
 
 
-<img width="200" alt="image" src="https://github.com/O2-CH4/About_Me/assets/118633117/3753e311-84ca-4f62-8d40-ccc3956e8170">
-<img width="200" alt="image" src="https://github.com/O2-CH4/About_Me/assets/118633117/00f426f9-646c-4b08-870b-c4b0dc62a073">
-<img width="200" alt="image" src="https://github.com/O2-CH4/About_Me/assets/118633117/f7c290ed-1462-434f-a419-8e1780147e7b">
-<img width="200" alt="image" src="https://github.com/O2-CH4/About_Me/assets/118633117/8d7dee69-97a4-427a-b254-8db9723467b2">
-<img width="200" alt="image" src="https://github.com/O2-CH4/About_Me/assets/118633117/89ff379b-304f-47a4-95e4-2f89efd6e2b9">
+<img width="200" alt="image" src="https://github.com/O2-CH4/About_Me/assets/118633117/3753e311-84ca-4f62-8d40-ccc3956e8170"> <img width="200" alt="image" src="https://github.com/O2-CH4/About_Me/assets/118633117/00f426f9-646c-4b08-870b-c4b0dc62a073"> <img width="200" alt="image" src="https://github.com/O2-CH4/About_Me/assets/118633117/f7c290ed-1462-434f-a419-8e1780147e7b"> <img width="200" alt="image" src="https://github.com/O2-CH4/About_Me/assets/118633117/8d7dee69-97a4-427a-b254-8db9723467b2"> <img width="200" alt="image" src="https://github.com/O2-CH4/About_Me/assets/118633117/89ff379b-304f-47a4-95e4-2f89efd6e2b9">
 
-<img width="300" alt="image" src="https://github.com/O2-CH4/About_Me/assets/118633117/d7c67376-85be-4516-b5db-6ed6ca6f0ef5">
-<img width="300" alt="image" src="https://github.com/O2-CH4/About_Me/assets/118633117/00bfbe96-c308-48ee-8936-97ea4f335a6f">
+<img width="300" alt="image" src="https://github.com/O2-CH4/About_Me/assets/118633117/d7c67376-85be-4516-b5db-6ed6ca6f0ef5"> <img width="300" alt="image" src="https://github.com/O2-CH4/About_Me/assets/118633117/00bfbe96-c308-48ee-8936-97ea4f335a6f">
 
  
 
