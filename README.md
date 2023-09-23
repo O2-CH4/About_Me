@@ -26,7 +26,7 @@
 ## 2) Repository for Diverse Projects/Files
 
 
-#### • [Kinematics Decoding from Rodent’s Primary Motor Cortex](LINK REPORT) 
+#### • [Kinematics Decoding from Rodent’s Primary Motor Cortex](https://github.com/O2-CH4/Neural_Decoding_Kinematics) 
 
 - **Context**: Graduate Research Internship at CERVO
 - **Overview**: Across this internship, I was responsible for developing an end-to-end pipeline for decoding kinematics variables using Deep Recurrent Neural Networks from raw intra-cortical neural recordings. Due to my previous experience in Brain-Computer Interface projects, I was mainly leading a small group of students (undergrads, masters, PhD) in order to design & develop various tools necessary for building datasets that could be used for training motor neural decoding models. Tools included: Experiment Design, Signal Processing, 3D markerless pose estimation, data pre-processing pipelines and decoders training pipelines. 
@@ -34,7 +34,7 @@
 
 
 
-<img width="200" alt="image" src="https://github.com/O2-CH4/About_Me/assets/118633117/376c9ef5-61f9-4d0b-9e92-92d2f083ca74"> <img width="200" alt="image" src="https://github.com/O2-CH4/About_Me/assets/118633117/78f6c685-f18c-4e86-9e71-f4cd8df0f00e"> <img width="225" alt="image" src="https://github.com/O2-CH4/About_Me/assets/118633117/251ad1ff-1bd8-4a97-96dc-00903fe9838d">
+<img width="200" alt="image" src="https://github.com/O2-CH4/About_Me/assets/118633117/376c9ef5-61f9-4d0b-9e92-92d2f083ca74"> <img width="200" alt="image" src="https://github.com/O2-CH4/About_Me/assets/118633117/78f6c685-f18c-4e86-9e71-f4cd8df0f00e"> <img width="227" alt="image" src="https://github.com/O2-CH4/About_Me/assets/118633117/251ad1ff-1bd8-4a97-96dc-00903fe9838d">
 
 
 
