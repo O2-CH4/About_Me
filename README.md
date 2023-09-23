@@ -230,7 +230,6 @@
             - Bioinstrumentation & Biomedical Microsystems
             - Quantum Computing (UdeM)
             - Theoretical Principles of Deep Learning (UdeM/Mila)
-        
             - Reinforcement Learning and Optimal Control (On-Going)
             - Software Quality Assurance (On-Going)
             - Representation Learning (On-Going)
