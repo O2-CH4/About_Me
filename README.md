@@ -12,7 +12,7 @@
 
 - Previously a Graduate Research Intern at [CERVO Brain Research Center](https://cervo.ulaval.ca/en) in [Ethier’s Lab](https://scholar.google.ca/citations?user=9CzYcbAAAAAJ&hl=en) called the Neural Interface and Motor Plasticity Laboratory. There, I was completing my first Master's degree in Artificial Intelligence (Laval University), where I applied Deep Learning techniques for Brain-Computer Interfaces (BCIs).
 
-- I am currently pursuing my second Master's degree in Artificial Intelligence at UdeM / Mila, with a focus this time on more theoretical aspects of future AI architectures and learning paradigms. Although I am attracted to many problems, some of them can be synthesized via the quest of how to create multi-tasks agents with a grounded understanding of the world which leverage prior knowledge to learn with low-sample complexity.
+- I am currently pursuing my second Master's degree in Artificial Intelligence at the University of Montreal (UdeM / Mila), with a focus this time on more theoretical aspects of future AI architectures and learning paradigms. Although I am attracted to many problems, some of them can be synthesized via the quest of how to create multi-tasks agents with a grounded understanding of the world which leverage prior knowledge to learn with low-sample complexity.
 
 - I can describe myself as a student with wide interests that is driven to understand complex problems and create utility for others. I mostly enjoy applying new tools from AI/Statistics to challenges in Sciences & Engineering.
 
