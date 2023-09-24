@@ -10,7 +10,7 @@
 
 - Canadian AI Graduate Student
 
-- Previously a Graduate Research Intern at [CERVO Brain Research Center](https://cervo.ulaval.ca/en) in [Ethier’s Lab](https://scholar.google.ca/citations?user=9CzYcbAAAAAJ&hl=en) called the Neural Interface and Motor Plasticity Laboratory. There, I was completing my first Master's degree in Artificial Intelligence (Laval University) with a focus on Deep Learning techniques for Brain-Computer Interfaces (BCIs).
+- Previously a Graduate Research Intern at [CERVO Brain Research Center](https://cervo.ulaval.ca/en) in [Ethier’s Lab](https://scholar.google.ca/citations?user=9CzYcbAAAAAJ&hl=en) called the Neural Interface and Motor Plasticity Laboratory. There, I was completing my first Master's degree in Artificial Intelligence (Laval University), where I applied Deep Learning techniques for Brain-Computer Interfaces (BCIs).
 
 - I am currently pursuing my second Master's degree in Artificial Intelligence at UdeM / Mila, with a focus this time on more theoretical aspects of future AI architectures and learning paradigms. Although I am attracted to many problems, some of them can be synthesized via the quest of how to create multi-tasks agents with a grounded understanding of the world which leverage prior knowledge to learn with low-sample complexity.
 
@@ -42,20 +42,7 @@
 
 
 
-#### • [Avoiding Collapses in Non-Contrastive SSL Methods](https://github.com/O2-CH4/DL_Theoretical_SSL) 
 
-- **Context**: Theoretical Principles for Deep Learning (Graduate Course) (UdeM/Mila)
-- **Overview**: Non-Contrastive Self-Supervised Learning is considered as a potential training paradigm for acquiring large sets of prior knowledge from unlabeled multi-modal data. This could allow future AI agents to acquire a grounded understanding of their environnement and System-2 reasoning capabilities. To that end, I decided to investigate some properties of recent non-contrastive methods, more specifically how are they maximizing the information content of their representations in order to avoid different types of collapses.
-- **Details**: Recent self-supervised learning methods for image representation are either classified as contrastive or non-contrastive. Contrastive methods operate by simultaneously minimizing the distance between two augmented views of the same data point (positive pairs) and maximizing views from different data points (negative pairs). While those techniques achieve state of the art results for image classification with few labeled samples, their use of negative pairs is making them limited in many aspects as their scaling potential is limited by the ability of finding suitable contrastive samples for training. Recently, many Non-Contrastive methods have shown competitive results without using any negative pairs, which raises the question of how those methods avoid any type of collapsing solutions to their loss function? Driven by those recent advances, the goal of this project report was to study in detail how and why some recent non-contrastive methods avoid any type of collapses via some specific architectural changes and regularization to their loss functions. In other words, how those methods can avoid trivial solutions that output constant solutions while keeping a high information content in their representations.
-
-
-
-
-#### • [Graduate Quantum Computing Course -- Various Work](https://github.com/O2-CH4/Quantum_Computing_Files) 
-
-- Took this course for pure personal interest (not counting in any degree) 
-- **Result**: Submitted problems worth 35% of the session (29/35) 
-- **Bonus**: I added the 2 presentations I gave in front of the class & Mr. Brassard. One is on Quantum-Enabled Secure Communications in Space and the other one is on Quantum Speedups for Deep Neural Networks Training (or more specifically for Non-Convex Optimization). 
 
 
 
@@ -73,6 +60,22 @@
 <img width="300" alt="image" src="https://github.com/O2-CH4/About_Me/assets/118633117/d7c67376-85be-4516-b5db-6ed6ca6f0ef5"> <img width="300" alt="image" src="https://github.com/O2-CH4/About_Me/assets/118633117/00bfbe96-c308-48ee-8936-97ea4f335a6f">
 
  
+
+
+#### • [Avoiding Collapses in Non-Contrastive SSL Methods](https://github.com/O2-CH4/DL_Theoretical_SSL) 
+
+- **Context**: Theoretical Principles for Deep Learning (Graduate Course) (UdeM/Mila)
+- **Overview**: Non-Contrastive Self-Supervised Learning is considered as a potential training paradigm for acquiring large sets of prior knowledge from unlabeled multi-modal data. This could allow future AI agents to acquire a grounded understanding of their environnement and System-2 reasoning capabilities. To that end, I decided to investigate some properties of recent non-contrastive methods, more specifically how are they maximizing the information content of their representations in order to avoid different types of collapses.
+- **Details**: Recent self-supervised learning methods for image representation are either classified as contrastive or non-contrastive. Contrastive methods operate by simultaneously minimizing the distance between two augmented views of the same data point (positive pairs) and maximizing views from different data points (negative pairs). While those techniques achieve state of the art results for image classification with few labeled samples, their use of negative pairs is making them limited in many aspects as their scaling potential is limited by the ability of finding suitable contrastive samples for training. Recently, many Non-Contrastive methods have shown competitive results without using any negative pairs, which raises the question of how those methods avoid any type of collapsing solutions to their loss function? Driven by those recent advances, the goal of this project report was to study in detail how and why some recent non-contrastive methods avoid any type of collapses via some specific architectural changes and regularization to their loss functions. In other words, how those methods can avoid trivial solutions that output constant solutions while keeping a high information content in their representations.
+
+
+
+
+#### • [Graduate Quantum Computing Course -- Various Work](https://github.com/O2-CH4/Quantum_Computing_Files) 
+
+- Took this course for pure personal interest (not counting in any degree) 
+- **Result**: Submitted problems worth 35% of the session (29/35) 
+- **Bonus**: I added the 2 presentations I gave in front of the class & Mr. Brassard. One is on Quantum-Enabled Secure Communications in Space and the other one is on Quantum Speedups for Deep Neural Networks Training (or more specifically for Non-Convex Optimization).
 
 
 
