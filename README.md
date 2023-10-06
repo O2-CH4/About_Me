@@ -57,7 +57,7 @@
 
  
 
-## 4) Repository for Diverse Projects/Files
+## 4) Diverse Projects/Files
 
 
 #### • [Kinematics Decoding from Rodent’s Primary Motor Cortex](https://github.com/O2-CH4/Neural_Decoding_Kinematics) 
