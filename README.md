@@ -35,7 +35,7 @@
 
 
 
-## 3) Courses
+## 3) Graduate Courses
 
 - All graduate courses completed (to date): 
     * Information Theory
