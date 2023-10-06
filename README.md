@@ -20,10 +20,44 @@
 
 
 
+## 2) Education 
+
+- College Stanislas
+- Grad-skipped one year
+- Rochebelle High School International Program (IB)
+- B.A Multidisciplinary (Laval University)
+- M.S Computer Science (Laval University / CERVO) (2022-2023)
+    * Focus: Deep Learning for Motor BCI Decoding 
+- M.S Computer Science (UdeM/Mila) (2023-2024)
+    * Focus: Theoretical Artificial Intelligence 
+
+
+
+
+
+## 3) Courses
+
+- All graduate courses completed (to date): 
+    * Information Theory
+    * Combinatorial Optimization
+    * Design & Simulation of Intelligent Systems for the 4.0 Industry
+    * 3D Perception for Autonomous Vehicules
+    * Reinforcement Learning
+    * Natural Language Processing
+    * Machine learning
+    * Bioinstrumentation & Biomedical Microsystems
+    * Quantum Computing
+    * Theoretical Principles of Deep Learning
+    * Reinforcement Learning and Optimal Control (On-Going)
+    * Software Quality Assurance (On-Going)
+    * Representation Learning (On-Going)
+
+
+
 
  
 
-## 2) Repository for Diverse Projects/Files
+## 4) Repository for Diverse Projects/Files
 
 
 #### • [Kinematics Decoding from Rodent’s Primary Motor Cortex](https://github.com/O2-CH4/Neural_Decoding_Kinematics) 
@@ -210,34 +244,5 @@
 
 
 
-
-### 3) Education 
-
-- College Stanislas
-- Grad-skipped one year
-- Rochebelle High School International Program (IB)
-- B.A Multidisciplinary (Laval University)
-- M.S Computer Science (Laval University / CERVO) (2022-2023)
-    * Focus: Deep Learning for Motor BCI Decoding 
-- M.S Computer Science (UdeM/Mila) (2023-2024)
-    * Focus: Theoretical Artificial Intelligence 
-
-
-### 4) Courses
-
-- All graduate courses completed (to date): 
-    * Information Theory
-    * Combinatorial Optimization
-    * Design & Simulation of Intelligent Systems for the 4.0 Industry
-    * 3D Perception for Autonomous Vehicules
-    * Reinforcement Learning
-    * Natural Language Processing
-    * Machine learning
-    * Bioinstrumentation & Biomedical Microsystems
-    * Quantum Computing
-    * Theoretical Principles of Deep Learning
-    * Reinforcement Learning and Optimal Control (On-Going)
-    * Software Quality Assurance (On-Going)
-    * Representation Learning (On-Going)
 
           
