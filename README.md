@@ -31,7 +31,6 @@
     * GPA: 3.78/4.33 
 - M.S Computer Science (UdeM/Mila) (2023-2024)
     * Focus: Theoretical Artificial Intelligence
-    * GPA: _____
 
 
 
