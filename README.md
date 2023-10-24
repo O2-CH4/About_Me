@@ -25,9 +25,9 @@
 - College Stanislas
 - Grad-skipped one year
 - Rochebelle High School International Program (IB)
-- B.A Multidisciplinary (Laval University)
+- B.A Economics (Laval University)
 - M.S Computer Science (Laval University / CERVO) (2022-2023)
-    * Focus: Deep Learning for Motor BCI Decoding 
+    * Focus: Deep Learning for Motor BCI Decoding (GPA: 3.78/4.33)
 - M.S Computer Science (UdeM/Mila) (2023-2024)
     * Focus: Theoretical Artificial Intelligence 
 
