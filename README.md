@@ -10,11 +10,14 @@
 
 - Canadian AI Graduate Student
 
-- Previously a Graduate Research Intern at [CERVO Brain Research Center](https://cervo.ulaval.ca/en) in [Ethier’s Lab](https://scholar.google.ca/citations?user=9CzYcbAAAAAJ&hl=en) called the Neural Interface and Motor Plasticity Laboratory. There, I was completing my first Master's degree in Artificial Intelligence (Laval University), where I applied Deep Learning techniques for Brain-Computer Interfaces (BCIs).
+- Currently pursuing my second M.S in Artificial Intelligence at the University of Montreal (UdeM / Mila) under the supervision of [Dr. Pablo Samuel Castro](https://mila.quebec/en/person/pablo-samuel-castro/). My research focuses on the problem of State Representation Learning (SRL) for Deep-RL agents.
 
-- I am currently pursuing my second Master's degree in Artificial Intelligence at the University of Montreal (UdeM / Mila), with a focus this time on more theoretical aspects of future AI architectures and learning paradigms. Although I am attracted to many problems, some of them can be synthesized via the quest of how to create multi-tasks agents with a grounded understanding of the world which leverage prior knowledge to learn with low-sample complexity.
+- Previously, I was a Graduate Research Intern at [CERVO Brain Research Center](https://cervo.ulaval.ca/en) in [Ethier’s Lab](https://scholar.google.ca/citations?user=9CzYcbAAAAAJ&hl=en) (Neural Interface and Motor Plasticity Laboratory). There, I was completing my first Master’s degree in Artificial Intelligence (Laval University), where I applied Deep Learning to Intra-Cortical Motor BCI Decoding. 
 
 - I can describe myself as a student with wide interests that is driven to understand complex problems and create utility for others. I mostly enjoy applying new tools from AI/Statistics to challenges in Sciences & Engineering.
+
+
+
 
 
 
@@ -30,7 +33,7 @@
     * Focus: Deep Learning for Motor BCI Decoding
     * GPA: 3.78/4.33 
 - M.S Computer Science (UdeM/Mila) (2023-2024)
-    * Focus: Theoretical Artificial Intelligence
+    * Focus: State Representation Learning (SRL) for Deep-RL agents.
 
 
 
@@ -38,27 +41,33 @@
 
 ## 3) Graduate Courses
 
-- All graduate courses completed (to date): 
+- All graduate courses completed (to date):
     * Information Theory
     * Combinatorial Optimization
     * Design & Simulation of Intelligent Systems for the 4.0 Industry
-    * 3D Perception for Autonomous Vehicules
+    * 3D Perception for Autonomous Vehicles
     * Reinforcement Learning
     * Natural Language Processing
     * Machine learning
     * Bioinstrumentation & Biomedical Microsystems
     * Quantum Computing
     * Theoretical Principles of Deep Learning
-    * Reinforcement Learning and Optimal Control (On-Going)
     * Software Quality Assurance (On-Going)
     * Representation Learning (On-Going)
+    * Robot Learning (Winter 2024)
+    * AGI (Winter 2024)
 
+
+
+## 4) Publications
+
+- Coming soon!
 
 
 
  
 
-## 4) Diverse Projects/Files
+## 5) Diverse Projects/Files
 
 
 #### • [Kinematics Decoding from Rodent’s Primary Motor Cortex](https://github.com/O2-CH4/Neural_Decoding_Kinematics) 
