@@ -9,7 +9,9 @@
 ## 1) Overview & Interests 
 
 
-- Canadian AI Graduate Student (Email: ayoub.echchahed@mila.quebec)
+- Email: ayoub.echchahed@mila.quebec
+
+- Canadian AI Graduate Student
 
 - Pursuing my second M.S in Computer Science (AI option) at the University of Montreal (UdeM) and the Mila AI Institute. My research focuses on the problem of Representation Learning for Deep-RL agents under the supervision of [Dr. Pablo Samuel Castro](https://mila.quebec/en/person/pablo-samuel-castro/).
 
