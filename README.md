@@ -60,7 +60,7 @@
 ## 4) Contact
 
 - Email: ayoub.echchahed@mila.quebec
-- [Linkedin](www.linkedin.com/in/a-e-8457b32aa)
+- [Linkedin](https://linkedin.com/in/a-e-8457b32aa)
 
 
 
