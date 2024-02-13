@@ -9,13 +9,11 @@
 ## 1) Overview & Interests 
 
 
-- Email: ayoub.echchahed@mila.quebec
-
-- Canadian AI Graduate Student
+- Canadian AI Graduate Student (Email: ayoub.echchahed@mila.quebec)
 
 - Pursuing my second M.S in Computer Science (AI option) at the University of Montreal (UdeM) and the Mila AI Institute. My research focuses on the problem of Representation Learning for Deep-RL agents under the supervision of [Dr. Pablo Samuel Castro](https://mila.quebec/en/person/pablo-samuel-castro/).
 
-- Previously, I was a Graduate Research Intern at [CERVO Brain Research Center](https://cervo.ulaval.ca/en) in [Ethier’s Lab](https://scholar.google.ca/citations?user=9CzYcbAAAAAJ&hl=en) (Neural Interface and Motor Plasticity Laboratory). There, I was completing my first M.S in Computer Science (Laval University), where I applied Deep Learning to Intra-Cortical Motor BCI Decoding. 
+- Previously a Graduate Research Intern at [CERVO Brain Research Center](https://cervo.ulaval.ca/en) in [Ethier’s Lab](https://scholar.google.ca/citations?user=9CzYcbAAAAAJ&hl=en) (Neural Interface and Motor Plasticity Laboratory). There, I was completing my first M.S in Computer Science (Laval University), where I applied Deep Learning to Intra-Cortical Motor BCI Decoding. 
 
 - I can describe myself as a student with wide interests that is driven to understand complex problems and create utility for others. I mostly enjoy applying new tools from AI/Statistics to challenges in Sciences & Engineering.
 
