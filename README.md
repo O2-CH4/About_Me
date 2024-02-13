@@ -8,9 +8,6 @@
 
 ## 1) Overview & Interests 
 
-
-- Email: ayoub.echchahed@mila.quebec
-
 - Canadian AI Graduate Student
 
 - Pursuing my second M.S in Computer Science (AI option) at the University of Montreal (UdeM) and the Mila AI Institute. My research focuses on the problem of Representation Learning for Deep-RL agents under the supervision of [Dr. Pablo Samuel Castro](https://mila.quebec/en/person/pablo-samuel-castro/).
@@ -60,15 +57,23 @@
 
 
 
-## 4) Publications
+## 4) Contact
+
+- Email: ayoub.echchahed@mila.quebec
+- [Linkedin](www.linkedin.com/in/a-e-8457b32aa)
+
+
+
+
+
+## 5) Publications
 
 - Coming soon!
 
 
 
- 
 
-## 5) Diverse Projects/Files
+## 6) Diverse Projects/Files
 
 
 #### • [Kinematics Decoding from Rodent’s Primary Motor Cortex](https://github.com/O2-CH4/Neural_Decoding_Kinematics) 
