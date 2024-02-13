@@ -8,11 +8,13 @@
 
 ## 1) Overview & Interests 
 
+- Email: ayoub.echchahed@mila.quebec
+
 - Canadian AI Graduate Student
 
-- Currently pursuing my second M.S in Artificial Intelligence at the University of Montreal (UdeM / Mila) under the supervision of [Dr. Pablo Samuel Castro](https://mila.quebec/en/person/pablo-samuel-castro/). My research focuses on the problem of State Representation Learning (SRL) for Deep-RL agents.
+- Currently pursuing my second M.S in Computer Science (AI option) at the University of Montreal (UdeM) and the Mila AI Institute. My research focuses on the problem of Representation Learning for Deep-RL agents under the supervision of [Dr. Pablo Samuel Castro](https://mila.quebec/en/person/pablo-samuel-castro/).
 
-- Previously, I was a Graduate Research Intern at [CERVO Brain Research Center](https://cervo.ulaval.ca/en) in [Ethier’s Lab](https://scholar.google.ca/citations?user=9CzYcbAAAAAJ&hl=en) (Neural Interface and Motor Plasticity Laboratory). There, I was completing my first Master’s degree in Artificial Intelligence (Laval University), where I applied Deep Learning to Intra-Cortical Motor BCI Decoding. 
+- Previously, I was a Graduate Research Intern at [CERVO Brain Research Center](https://cervo.ulaval.ca/en) in [Ethier’s Lab](https://scholar.google.ca/citations?user=9CzYcbAAAAAJ&hl=en) (Neural Interface and Motor Plasticity Laboratory). There, I was completing my first M.S in Computer Science (Laval University), where I applied Deep Learning to Intra-Cortical Motor BCI Decoding. 
 
 - I can describe myself as a student with wide interests that is driven to understand complex problems and create utility for others. I mostly enjoy applying new tools from AI/Statistics to challenges in Sciences & Engineering.
 
@@ -29,11 +31,10 @@
 - Grad-skipped one year
 - Rochebelle High School International Program (IB)
 - B.A Economics (Laval University)
-- M.S Computer Science (Laval University / CERVO) (2022-2023)
-    * Focus: Deep Learning for Motor BCI Decoding
-    * GPA: 3.78/4.33 
-- M.S Computer Science (UdeM/Mila) (2023-2024)
-    * Focus: State Representation Learning (SRL) for Deep-RL agents.
+- M.S Computer Science (Laval University / CERVO) (2022-2024) 
+    * Focus: Deep Learning for Motor BCI Decoding 
+- M.S Computer Science (UdeM/Mila) (2023-2024) 
+    * Focus: Representation Learning for Deep-RL agents.
 
 
 
@@ -52,10 +53,9 @@
     * Bioinstrumentation & Biomedical Microsystems
     * Quantum Computing
     * Theoretical Principles of Deep Learning
-    * Software Quality Assurance (On-Going)
-    * Representation Learning (On-Going)
+    * Representation Learning
     * Robot Learning (Winter 2024)
-    * AGI (Winter 2024)
+    * Towards AGI: Scaling, Emergence, Alignment (Winter 2024)
 
 
 
